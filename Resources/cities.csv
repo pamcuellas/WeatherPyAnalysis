@@ -1,827 +1,581 @@
-City,Country
-port elizabeth,za
-baraut,in
-druzhba,uz
-sept-iles,ca
-ojitlan,mx
-kokstad,za
-pangnirtung,ca
-bara,sd
-tolaga bay,nz
-korla,cn
-sao miguel do tapuio,br
-bambous virieux,mu
-catalina,ca
-inuvik,ca
-martapura,id
-shache,cn
-hofn,is
-lethem,gy
-bedele,et
-hilo,us
-vieira de leiria,pt
-camocim,br
-russell,nz
-yurimaguas,pe
-dingle,ie
-kloulklubed,pw
-xuanzhou,cn
-bilma,ne
-alice springs,au
-isangel,vu
-san rafael,ar
-tual,id
-kuching,my
-talnakh,ru
-cockburn town,tc
-sisimiut,gl
-camacha,pt
-korablino,ru
-bowen,au
-kapuskasing,ca
-gezing,in
-amga,ru
-fukue,jp
-mareeba,au
-wattegama,lk
-miramar,mx
-busselton,au
-palauig,ph
-kieta,pg
-hobart,au
-tasiilaq,gl
-amberley,nz
-aranda de duero,es
-hauknes,no
-vokhma,ru
-sinnamary,gf
-zhangzhou,cn
-avarua,ck
-aksarka,ru
-berlevag,no
-aksu,cn
-havoysund,no
-malatya,tr
-arraial do cabo,br
-zhangye,cn
-la baule-escoublac,fr
-ust-kuyga,ru
-dikson,ru
-sarkand,kz
-senanga,zm
-sai buri,th
-spring hill,us
-broken hill,au
-yengema,sl
-ribeira grande,pt
-paamiut,gl
-quang ngai,vn
-mahibadhoo,mv
-zavetnoye,ru
-camana,pe
-cayenne,gf
-manokwari,id
-geraldton,au
-cuorgne,it
-roberval,ca
-bogen,de
-waingapu,id
-pangkalanbuun,id
-luderitz,na
-dzaoudzi,yt
-jambi,id
-honiara,sb
-meyungs,pw
-sunrise manor,us
-gornoye loo,ru
-saint george,bm
-isabela,us
-vestmannaeyjar,is
-la palma,pa
-asfi,ma
-atbasar,kz
-baykit,ru
-morehead,pg
-port hedland,au
-turbat,pk
-urucara,br
-tonantins,br
-comodoro rivadavia,ar
-kushima,jp
-tigil,ru
-aflu,dz
-moose factory,ca
-illoqqortoormiut,gl
-agogo,gh
-creel,mx
-tazovskiy,ru
-meulaboh,id
-bolu,tr
-sola,vu
-tomohon,id
-kitimat,ca
-opuwo,na
-constantine,dz
-guerrero negro,mx
-soe,id
-saqqez,ir
-canmore,ca
-klaksvik,fo
-khatanga,ru
-lubango,ao
-san patricio,mx
-preobrazheniye,ru
-upernavik,gl
-san quintin,mx
-vyartsilya,ru
-flinders,au
-auki,sb
-ust-uda,ru
-melaka,my
-coahuayana,mx
-jishou,cn
-halalo,wf
-umzimvubu,za
-tautira,pf
-alofi,nu
-hami,cn
-pevek,ru
-nakhon thai,th
-ust-kulom,ru
-morris,us
-okhotsk,ru
-toowoomba,au
-bulgan,mn
-maniitsoq,gl
-port macquarie,au
-sabha,ly
-saint-philippe,re
-saldanha,za
-nishihara,jp
-kingston,us
-lavrentiya,ru
-vao,nc
-hualmay,pe
-doha,kw
-mar del plata,ar
-tanout,ne
-tyrma,ru
-maragogi,br
-soyo,ao
-saint-leu,re
-fort wellington,gy
-pacasmayo,pe
-marcona,pe
-portland,au
-san matias,bo
-puerto ayacucho,ve
-wangou,cn
-chumikan,ru
-alindao,cf
-simiti,co
-khilok,ru
-akyab,mm
-calabozo,ve
-stornoway,gb
-abu jubayhah,sd
-nemuro,jp
-chingirlau,kz
-sangar,ru
-ankpa,ng
-puerto ayora,ec
-puerto escondido,mx
-werota,et
-burnie,au
-tacoronte,es
-de-kastri,ru
-buala,sb
-mettur,in
-port lincoln,au
-monterey,us
-kresna,bg
-lapua,fi
-benguela,ao
-ankazoabo,mg
-saskylakh,ru
-rajanpur,pk
-weligama,lk
-bengkulu,id
-zadar,hr
-palabuhanratu,id
-kaputa,zm
-mogadishu,so
-warqla,dz
-boende,cd
-pacifica,us
-cagayan de tawi-tawi,ph
-aleksandrovskoye,ru
-potgietersrus,za
-bilibino,ru
-jamestown,sh
-namibe,ao
-mudgee,au
-katsuura,jp
-merauke,id
-lucapa,ao
-batticaloa,lk
-yanam,in
-karratha,au
-zhanatas,kz
-bonavista,ca
-lardos,gr
-rocha,uy
-mataura,pf
-caborca,mx
-nelson bay,au
-saverne,fr
-epitalion,gr
-deputatskiy,ru
-andenes,no
-waipawa,nz
-sur,om
-fort nelson,ca
-kavaratti,in
-airai,pw
-thompson,ca
-skibbereen,ie
-watsa,cd
-ust-nera,ru
-hasaki,jp
-north bend,us
-tiznit,ma
-sioux lookout,ca
-coquimbo,cl
-gimli,ca
-severobaykalsk,ru
-henties bay,na
-shiyan,cn
-lebu,cl
-kenai,us
-clyde river,ca
-bonthe,sl
-fortuna,us
-san policarpo,ph
-amderma,ru
-belyy yar,ru
-longyearbyen,sj
-bredasdorp,za
-tagusao,ph
-quzhou,cn
-kropotkin,ru
-mpika,zm
-hof,no
-gaya,ne
-limbuhan,ph
-port moresby,pg
-basco,ph
-de aar,za
-conde,br
-leningradskiy,ru
-quesnel,ca
-olafsvik,is
-emmett,us
-zhezkazgan,kz
-toliary,mg
-sao joao da barra,br
-palu,id
-butaritari,ki
-coihaique,cl
-whitehorse,ca
-kalmunai,lk
-bazarnyy syzgan,ru
-mirabad,af
-pacific grove,us
-udachnyy,ru
-nyurba,ru
-mys shmidta,ru
-kuche,cn
-svetlyy,ru
-suamico,us
-topeka,us
-viedma,ar
-ghanzi,bw
-bargal,so
-vanimo,pg
-shelburne,ca
-barrow,us
-capinzal,br
-saint-pierre,re
-attawapiskat,ca
-polson,us
-rusape,zw
-laguna,br
-east london,za
-codrington,ag
-yumen,cn
-sorong,id
-adrar,dz
-alugan,ph
-nyimba,zm
-kralendijk,an
-shimoda,jp
-esperance,au
-kavieng,pg
-kyenjojo,ug
-gaozhou,cn
-charters towers,au
-hellvik,no
-nakamura,jp
-husavik,is
-nioro,ml
-lianzhou,cn
-lolua,tv
-pleasanton,us
-irupi,br
-kizukuri,jp
-novosokolniki,ru
-puerto rico,co
-storforshei,no
-faanui,pf
-port-gentil,ga
-vostok,ru
-prince george,ca
-safakulevo,ru
-serov,ru
-mehamn,no
-buchanan,lr
-dakar,sn
-lufilufi,ws
-deer lake,ca
-yaan,cn
-gizo,sb
-san borja,bo
-chanderi,in
-lakes entrance,au
-betare oya,cm
-ozernovskiy,ru
-ilhabela,br
-victoria,sc
-bolungarvik,is
-gao,ml
-pauini,br
-mizdah,ly
-souillac,mu
-harper,lr
-golden,us
-ulladulla,au
-iskateley,ru
-kandrian,pg
-firminopolis,br
-college,us
-jumla,np
-zaysan,kz
-lodwar,ke
-durban,za
-mahadday weyne,so
-mao,td
-duliby,ua
-constitucion,mx
-finschhafen,pg
-maku,ir
-mahajanga,mg
-barmer,in
-orlik,ru
-aberdeen,us
-miguel pereira,br
-lagoa,pt
-lima,pe
-havre-saint-pierre,ca
-vad,ru
-praxedis guerrero,mx
-plettenberg bay,za
-rungata,ki
-sentyabrskiy,ru
-saint-francois,gp
-pokhara,np
-slave lake,ca
-salalah,om
-luanda,ao
-moanda,ga
-nabire,id
-sitka,us
-campos sales,br
-grindavik,is
-takoradi,gh
-natal,br
-paramirim,br
-gunjur,gm
-dawlatabad,af
-punta arenas,cl
-bay city,us
-cherepovets,ru
-ahmadpur sial,pk
-kinkala,cg
-oistins,bb
-cairns,au
-sibu,my
-great bend,us
-provideniya,ru
-manihari,in
-houlton,us
-wewak,pg
-agirish,ru
-matay,eg
-chapais,ca
-westport,ie
-jabiru,au
-mutsamudu,km
-roseburg,us
-zhigansk,ru
-cap malheureux,mu
-port blair,in
-kutum,sd
-bluff,nz
-utamysh,ru
-bairiki,ki
-severo-kurilsk,ru
-broome,au
-bergen,de
-blyth,gb
-tuggurt,dz
-castro,cl
-nampula,mz
-mangai,cd
-tura,ru
-cooma,au
-anadyr,ru
-bokspits,bw
-tuatapere,nz
-stawell,au
-marathon,us
-asau,tv
-amapa,br
-weatherford,us
-conceicao das alagoas,br
-komsomolskiy,ru
-ishigaki,jp
-naze,jp
-santo tomas,pe
-nouadhibou,mr
-raton,us
-vestmanna,fo
-vila velha,br
-maceio,br
-hovd,mn
-okha,ru
-la palma,mx
-yirol,sd
-dudinka,ru
-shchelyayur,ru
-yar-sale,ru
-khandyga,ru
-ostrovnoy,ru
-carnarvon,au
-dunedin,nz
-barra patuca,hn
-belushya guba,ru
-kidderminster,gb
-rio gallegos,ar
-douglas,us
-mayo,ca
-hervey bay,au
-kaluga,ru
-cherskiy,ru
-kovdor,ru
-jacareacanga,br
-ningyang,cn
-norman wells,ca
-nauta,pe
-dolinsk,ru
-ngukurr,au
-krasnoselkup,ru
-tiksi,ru
-zhanaozen,kz
-jamestown,us
-poum,nc
-simao,cn
-najran,sa
-susanville,us
-nanortalik,gl
-acajutla,sv
-nantucket,us
-port hardy,ca
-chernyshevskiy,ru
-colquechaca,bo
-lompoc,us
-laurens,us
-jardim,br
-greenville,us
-ahipara,nz
-gazli,uz
-oktyabrskoye,ru
-sambava,mg
-linxia,cn
-luganville,vu
-antalaha,mg
-susangerd,ir
-havelock,us
-wangkui,cn
-bukachacha,ru
-balezino,ru
-chara,ru
-ola,ru
-phan rang,vn
-heihe,cn
-wysokie mazowieckie,pl
-katyuzhanka,ua
-tommot,ru
-ponta do sol,pt
-zonguldak,tr
-petropavlovskoye,ru
-rwamagana,rw
-mocuba,mz
-huarmey,pe
-barentsburg,sj
-porto novo,cv
-northam,au
-ilulissat,gl
-padang,id
-malindi,ke
-roebourne,au
-jiwani,pk
-sabang,id
-sawakin,sd
-marawi,sd
-katha,mm
-beringovskiy,ru
-tsabong,bw
-louisbourg,ca
-tuktoyaktuk,ca
-pitimbu,br
-ugoofaaru,mv
-los llanos de aridane,es
-tiruchchendur,in
-roma,au
-pahrump,us
-kismayo,so
-kampot,kh
-portel,br
-xinzhi,cn
-chiungutwa,tz
-thinadhoo,mv
-grand gaube,mu
-savelugu,gh
-ahuimanu,us
-biscarrosse,fr
-port alfred,za
-narsaq,gl
-yulara,au
-brae,gb
-rikitea,pf
-languyan,ph
-martin,us
-abonnema,ng
-te anau,nz
-yellowknife,ca
-thunder bay,ca
-ilyich,kz
-seymchan,ru
-kedrovyy,ru
-samusu,ws
-araouane,ml
-banda aceh,id
-dzilam gonzalez,mx
-morro bay,us
-chuka,ke
-tabuk,sa
-aswan,eg
-kruisfontein,za
-cockburn town,bs
-weyburn,ca
-georgetown,sh
-el alto,pe
-catarman,ph
-tubruq,ly
-chuy,uy
-muros,es
-gorgan,ir
-egvekinot,ru
-tateyama,jp
-diego de almagro,cl
-omsukchan,ru
-karaton,kz
-tutoia,br
-yerbogachen,ru
-iquitos,pe
-taoudenni,ml
-iqaluit,ca
-constitucion,cl
-waitati,nz
-nome,us
-loiza,us
-hambantota,lk
-darhan,mn
-bethel,us
-juneau,us
-ushuaia,ar
-turukhansk,ru
-severo-yeniseyskiy,ru
-roald,no
-hermanus,za
-umm lajj,sa
-adre,td
-chokurdakh,ru
-ferndale,us
-boyolangu,id
-maykain,kz
-axim,gh
-riyadh,sa
-lorengau,pg
-banki,in
-kahului,us
-imbituba,br
-malwan,in
-sao gabriel da cachoeira,br
-kyshtovka,ru
-albany,au
-san rafael,cr
-qaanaaq,gl
-hithadhoo,mv
-vieques,us
-duma,sy
-phonhong,la
-xichang,cn
-gazanjyk,tm
-cazaje,ao
-port-de-paix,ht
-hamilton,bm
-sistranda,no
-kapaa,us
-villa guerrero,mx
-jalu,ly
-lasa,cn
-hobyo,so
-ruteng,id
-kodiak,us
-avera,pf
-noumea,nc
-lata,sb
-kautokeino,no
-diamantino,br
-palmer,us
-chisinau,md
-biggar,ca
-maiduguri,ng
-lahij,ye
-pathein,mm
-tremedal,br
-cordoba,ar
-gat,ly
-mujiayingzi,cn
-castro,br
-kolokani,ml
-shaartuz,tj
-la ronge,ca
-grand river south east,mu
-petropavlovsk-kamchatskiy,ru
-carutapera,br
-cape town,za
-koumac,nc
-khonuu,ru
-challakere,in
-seoul,kr
-nikolskoye,ru
-cabedelo,br
-san cristobal,ec
-obama,jp
-konevo,ru
-ponta do sol,cv
-ambilobe,mg
-ruatoria,nz
-vaitupu,wf
-agadir,ma
-vila franca do campo,pt
-erzin,ru
-den helder,nl
-oranjemund,na
-mount isa,au
-virginia beach,us
-wolsztyn,pl
-narkanda,in
-caravelas,br
-kamenka,ru
-san andres,co
-beloha,mg
-saint-joseph,re
-goderich,sl
-new norfolk,au
-shkotovo-22,ru
-dotnuva,lt
-rosetta,eg
-chupaca,pe
-goya,ar
-sirjan,ir
-bathsheba,bb
-haines junction,ca
-cabo san lucas,mx
-ardakan,ir
-faya,td
-samokov,bg
-nizhneyansk,ru
-pedernales,ec
-sarangani,ph
-eureka,us
-kostomuksha,ru
-ndele,cf
-zyryanka,ru
-ancud,cl
-vaini,to
-sao filipe,cv
-gamba,tz
-touros,br
-langfang,cn
-puerto barrios,gt
-houma,us
-pochutla,mx
-gillette,us
-devyatka,ru
-kemin,kg
-east haven,us
-vardo,no
-nouakchott,mr
-shevchenkove,ua
-xambioa,br
-eyl,so
-ust-ishim,ru
-tawang,in
-ladario,br
-aras,no
-palana,ru
-tsihombe,mg
-gurupi,br
-marzuq,ly
-waverley,nz
-torbay,ca
-biloela,au
-catamarca,ar
-urbana,us
-ketchikan,us
-antofagasta,cl
-puro,ph
-kefamenanu,id
-formosa,ar
-taolanaro,mg
-reyes,bo
-rawson,ar
-cidreira,br
-mahebourg,mu
-richards bay,za
-santa fe,cu
-saleaula,ws
-atuona,pf
-atar,mr
-jasdan,in
-bredy,ru
-fairbanks,us
-tumannyy,ru
-namatanai,pg
-novoagansk,ru
-aklavik,ca
-novikovo,ru
-svetlogorsk,ru
-pisco,pe
-sidi ali,dz
-abu dhabi,ae
-karpogory,ru
-ixtapa,mx
-karla,ee
-tynda,ru
-tignere,cm
-san diego,co
-reforma,mx
-praia da vitoria,pt
-kamenskoye,ru
-terracina,it
-kaitangata,nz
-makakilo city,us
-qasigiannguit,gl
-margate,za
-marsh harbour,bs
-terra santa,br
-dingli,mt
-dongsheng,cn
-ishinomaki,jp
-olinda,br
-arlit,ne
-ngunguru,nz
-addi ugri,er
-ambositra,mg
-salamiyah,sy
-doha,qa
-koratla,in
-saint-augustin,ca
-bud,no
-ballina,au
-zabaykalsk,ru
-necochea,ar
-fare,pf
-vanavara,ru
-santa isabel,mx
-saryg-sep,ru
-smidovich,ru
-santa marta,co
-paysandu,uy
-sungaipenuh,id
-cam ranh,vn
-ambon,id
-corinto,ni
+City,Country,Cloudiness,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
+erenhot,cn,90,2019-07-04 10:56:19,56,43.65,111.97,71.04,19.04
+zhangye,cn,32,2019-07-04 10:56:20,19,38.94,100.46,75.18,6.46
+klimovo,ru,14,2019-07-04 10:56:21,57,52.38,32.2,64.02,11.92
+port hedland,au,0,2019-07-04 10:56:22,82,-20.31,118.58,62.6,4.7
+benguela,ao,20,2019-07-04 10:56:23,78,-12.58,13.4,73.4,4.7
+mayumba,ga,92,2019-07-04 10:56:24,88,-3.44,10.65,72.66,7.54
+muyezerskiy,ru,58,2019-07-04 10:56:26,45,63.93,31.65,64.02,12.33
+porto novo,cv,20,2019-07-04 10:56:27,54,17.02,-25.06,84.2,21.92
+oksfjord,no,90,2019-07-04 10:56:28,100,70.24,22.35,48.2,16.11
+karatau,kz,14,2019-07-04 10:56:29,51,43.18,70.46,84.99,6.87
+vangaindrano,mg,0,2019-07-04 10:56:30,85,-23.35,47.6,63.3,0.45
+bambanglipuro,id,83,2019-07-04 10:56:32,85,-7.95,110.28,77.7,14.97
+tual,id,33,2019-07-04 10:56:33,82,-5.67,132.75,77.52,16.22
+launceston,au,75,2019-07-04 10:56:34,86,-41.43,147.14,45.0,8.05
+constitucion,mx,20,2019-07-04 10:51:58,72,23.99,-104.67,66.99,6.93
+waitati,nz,90,2019-07-04 10:56:36,77,-45.75,170.57,45.0,18.01
+kidal,ml,55,2019-07-04 10:56:39,12,18.44,1.41,108.12,5.23
+waingapu,id,0,2019-07-04 10:56:40,90,-9.65,120.26,66.72,8.61
+leningradskiy,ru,100,2019-07-04 10:56:41,99,69.38,178.42,35.22,3.53
+svetlogorsk,ru,40,2019-07-04 10:56:42,44,53.14,59.15,75.2,11.18
+mayya,ru,20,2019-07-04 10:56:43,58,61.74,130.28,55.4,4.47
+raudeberg,no,40,2019-07-04 10:56:45,62,61.99,5.14,57.0,16.11
+college,us,90,2019-07-04 10:56:46,77,64.86,-147.8,60.8,8.05
+ballinrobe,ie,75,2019-07-04 10:56:47,72,53.62,-9.22,63.0,11.41
+souillac,mu,75,2019-07-04 10:56:48,73,-20.52,57.52,73.4,6.93
+mandera,ke,17,2019-07-04 10:56:49,31,3.94,41.87,89.58,16.87
+esperance,au,75,2019-07-04 10:56:51,39,-33.86,121.89,62.6,14.99
+tongliao,cn,37,2019-07-04 10:56:52,46,43.61,122.27,80.22,12.64
+marsala,it,0,2019-07-04 10:56:53,66,37.8,12.44,91.0,9.17
+iqaluit,ca,75,2019-07-04 10:56:55,81,63.75,-68.52,44.6,16.11
+trelew,ar,0,2019-07-04 10:56:57,60,-43.25,-65.31,36.48,14.92
+cayambe,ec,75,2019-07-04 10:56:58,72,0.04,-78.14,60.8,4.7
+ushirombo,tz,60,2019-07-04 10:56:59,31,-3.47,31.9,81.84,4.36
+bonfim,br,0,2019-07-04 10:57:00,36,-20.33,-44.24,80.6,4.7
+kalabo,zm,0,2019-07-04 10:57:01,22,-15.0,22.67,84.36,4.03
+lexington,us,40,2019-07-04 10:54:27,83,38.05,-84.5,80.01,3.36
+cidreira,br,12,2019-07-04 10:57:04,53,-30.17,-50.22,52.14,15.61
+northam,au,90,2019-07-04 10:57:05,93,-31.65,116.67,50.0,8.05
+mizdah,ly,0,2019-07-04 10:57:06,16,31.45,12.98,94.26,2.57
+kardymovo,ru,50,2019-07-04 10:57:07,76,54.89,32.44,57.72,9.98
+zaozerne,ua,67,2019-07-04 10:57:08,51,51.37,23.94,64.56,11.34
+palana,ru,0,2019-07-04 10:57:11,84,59.08,159.95,47.46,15.17
+forquilhinha,br,0,2019-07-04 10:57:12,45,-28.75,-49.47,55.92,5.35
+pervomayskiy,ru,3,2019-07-04 10:57:14,63,53.24,40.29,62.94,10.07
+pekan,my,75,2019-07-04 10:57:16,94,3.49,103.39,80.6,2.08
+panaba,mx,1,2019-07-04 10:57:19,61,21.28,-88.27,85.98,5.86
+hermanus,za,100,2019-07-04 10:57:20,61,-34.42,19.24,66.99,7.0
+capao da canoa,br,0,2019-07-04 10:57:21,51,-29.75,-50.01,51.96,10.65
+sao gabriel da cachoeira,br,75,2019-07-04 10:57:22,94,-0.13,-67.09,77.0,2.24
+ponta do sol,cv,20,2019-07-04 10:57:23,54,17.2,-25.09,84.2,21.92
+billings,us,90,2019-07-04 10:57:26,82,45.79,-108.5,62.01,3.36
+saint-francois,gp,75,2019-07-04 10:57:27,66,16.25,-61.27,86.0,14.99
+valparaiso,cl,0,2019-07-04 10:57:28,71,-33.04,-71.63,55.4,3.36
+broome,au,0,2019-07-04 10:57:29,100,-17.97,122.23,71.6,6.93
+mahina,pf,73,2019-07-04 10:57:31,77,-17.51,-149.49,69.8,4.7
+killarney,ca,1,2019-07-04 10:57:32,72,49.18,-99.66,73.0,6.93
+fomboni,km,0,2019-07-04 10:57:33,75,-12.28,43.74,78.24,14.9
+oktyabrskiy,ru,0,2019-07-04 10:57:34,45,55.61,37.97,64.4,11.18
+meulaboh,id,100,2019-07-04 10:57:35,66,4.14,96.13,84.9,4.03
+aurora,ph,19,2019-07-04 10:57:36,87,16.99,121.64,76.08,3.24
+sioux lookout,ca,90,2019-07-04 10:57:38,93,50.1,-91.92,62.6,2.24
+nelson,nz,83,2019-07-04 10:57:39,73,-41.28,173.28,48.0,1.01
+dawlatabad,af,0,2019-07-04 10:57:41,18,36.41,64.91,87.78,8.97
+lulea,se,75,2019-07-04 10:53:54,62,65.58,22.15,59.0,6.93
+margate,za,0,2019-07-04 10:57:43,52,-30.86,30.37,63.3,5.28
+mount isa,au,0,2019-07-04 10:57:45,42,-20.73,139.49,62.6,5.82
+port macquarie,au,75,2019-07-04 10:53:15,93,-31.43,152.91,57.2,5.82
+port lincoln,au,0,2019-07-04 10:57:47,72,-34.72,135.86,57.0,17.4
+mlonggo,id,40,2019-07-04 10:57:48,78,-6.53,110.7,80.6,10.29
+qaanaaq,gl,92,2019-07-04 10:57:50,55,77.48,-69.36,43.32,1.45
+nuevo progreso,mx,38,2019-07-04 10:57:53,68,17.14,-95.05,78.24,3.69
+abu dhabi,ae,5,2019-07-04 10:56:24,47,24.47,54.37,100.4,16.11
+wenling,cn,100,2019-07-04 10:57:55,99,28.38,121.38,75.0,2.04
+gurlan,uz,0,2019-07-04 10:57:56,28,41.84,60.39,98.6,11.41
+veere,nl,71,2019-07-04 10:55:14,56,51.55,3.67,78.01,10.29
+skara,se,56,2019-07-04 10:57:59,67,58.38,13.44,63.0,19.46
+carnarvon,au,90,2019-07-04 10:58:00,72,-24.87,113.63,64.4,17.22
+eureka,us,90,2019-07-04 10:54:55,100,40.8,-124.16,57.99,9.73
+remontnoye,ru,0,2019-07-04 10:58:03,18,46.56,43.66,93.2,13.42
+karratha,au,10,2019-07-04 10:58:04,80,-20.74,116.85,68.52,2.84
+harwich,us,1,2019-07-04 10:58:05,65,41.69,-70.08,89.01,6.93
+niquelandia,br,0,2019-07-04 10:58:07,24,-14.47,-48.46,87.96,7.78
+tshikapa,cd,11,2019-07-04 10:58:08,14,-6.42,20.79,96.06,3.47
+georgetown,us,40,2019-07-04 10:58:10,79,33.38,-79.29,91.99,3.36
+teya,ru,7,2019-07-04 10:58:11,60,60.37,92.63,71.22,1.48
+arifwala,pk,38,2019-07-04 10:58:13,14,30.29,73.06,108.3,6.51
+qaqortoq,gl,40,2019-07-04 10:58:14,44,60.72,-46.03,59.0,5.82
+aklavik,ca,90,2019-07-04 10:58:15,77,68.22,-135.01,60.8,11.41
+emerald,au,90,2019-07-04 10:58:16,100,-23.53,148.16,60.8,6.93
+hay river,ca,90,2019-07-04 10:58:17,93,60.82,-115.79,50.0,3.36
+poum,nc,77,2019-07-04 10:58:18,73,-20.23,164.02,72.48,9.62
+kerouane,gn,15,2019-07-04 10:58:20,59,12.23,-12.34,91.2,9.6
+escanaba,us,90,2019-07-04 10:58:21,73,45.75,-87.06,81.0,8.05
+bronnoysund,no,40,2019-07-04 10:58:22,66,65.46,12.2,57.2,12.75
+moose factory,ca,1,2019-07-04 10:58:24,50,51.26,-80.61,77.0,13.87
+kyren,ru,0,2019-07-04 10:58:26,86,51.68,102.13,41.52,3.56
+samarai,pg,78,2019-07-04 10:58:27,91,-10.62,150.67,70.5,2.73
+rikitea,pf,40,2019-07-04 10:58:29,69,-23.12,-134.97,66.36,23.22
+eraclea,it,0,2019-07-04 10:58:30,51,45.58,12.67,91.99,12.75
+estelle,us,75,2019-07-04 10:58:33,74,32.87,-97.01,86.0,10.29
+san joaquin,bo,0,2019-07-04 10:58:34,45,-16.38,-58.39,87.24,2.44
+ginir,et,27,2019-07-04 10:58:35,86,7.14,40.71,65.82,5.03
+yulara,au,0,2019-07-04 10:58:36,45,-25.24,130.99,46.4,5.82
+huicungo,pe,0,2019-07-04 10:58:37,94,-7.28,-76.8,78.8,1.23
+khatanga,ru,100,2019-07-04 10:56:15,59,71.98,102.47,53.58,14.45
+albany,au,75,2019-07-04 10:58:40,93,-35.02,117.88,51.8,10.29
+san rafael,ar,34,2019-07-04 10:55:56,77,-34.61,-68.33,39.36,6.89
+cape town,za,20,2019-07-04 10:55:06,63,-33.93,18.42,63.0,20.8
+natal,br,75,2019-07-04 10:55:38,70,-5.81,-35.21,86.0,14.99
+salalah,om,90,2019-07-04 10:58:44,89,17.01,54.1,84.2,9.17
+naron,es,20,2019-07-04 10:58:47,73,43.52,-8.15,75.0,10.29
+copenhagen,dk,100,2019-07-04 10:55:49,93,55.69,12.57,61.0,8.05
+bubaque,gw,24,2019-07-04 10:58:49,80,11.28,-15.83,80.4,7.49
+burnie,au,0,2019-07-04 10:58:50,72,-41.05,145.91,51.01,3.0
+islamkot,pk,3,2019-07-04 10:58:51,54,24.7,70.18,91.56,22.08
+phan thiet,vn,14,2019-07-04 10:58:53,92,10.93,108.1,73.74,3.56
+tura,ru,85,2019-07-04 10:58:55,57,64.27,100.22,73.92,8.19
+port shepstone,za,0,2019-07-04 10:56:08,52,-30.74,30.45,63.3,5.28
+vardo,no,75,2019-07-04 10:58:57,87,70.37,31.11,50.0,12.75
+bilma,ne,32,2019-07-04 10:58:58,16,18.69,12.92,105.96,0.4
+nokaneng,bw,0,2019-07-04 10:58:59,14,-19.66,22.19,80.04,4.43
+aquiraz,br,40,2019-07-04 10:59:01,58,-3.9,-38.39,86.0,19.46
+ancud,cl,40,2019-07-04 10:59:03,100,-41.87,-73.83,37.4,3.36
+luderitz,na,0,2019-07-04 10:59:04,53,-26.65,15.16,71.6,12.75
+beeville,us,0,2019-07-04 10:57:06,85,28.4,-97.75,86.0,11.01
+richards bay,za,0,2019-07-04 10:59:07,67,-28.77,32.06,71.76,15.05
+san patricio,mx,20,2019-07-04 10:59:09,78,19.22,-104.7,80.6,0.92
+georgetown,sh,20,2019-07-04 10:59:10,51,-7.93,-14.42,80.6,20.8
+quatre cocos,mu,75,2019-07-04 10:59:11,73,-20.21,57.76,73.4,6.93
+torbay,ca,90,2019-07-04 10:59:12,87,47.66,-52.73,54.0,8.05
+tadine,nc,29,2019-07-04 10:59:15,73,-21.55,167.88,72.3,10.02
+huilong,cn,96,2019-07-04 10:59:16,96,31.15,106.5,69.6,2.62
+severo-kurilsk,ru,99,2019-07-04 10:59:17,97,50.68,156.12,42.24,10.31
+kaitangata,nz,96,2019-07-04 10:59:18,85,-46.28,169.85,42.01,4.0
+cayenne,gf,2,2019-07-04 10:59:19,74,4.94,-52.33,86.0,12.75
+saint-paul,re,90,2019-07-04 10:59:22,73,-21.01,55.27,73.4,6.93
+pitimbu,br,75,2019-07-04 10:59:23,78,-7.47,-34.81,82.4,9.17
+vaini,to,40,2019-07-04 10:59:24,88,-21.2,-175.2,73.4,11.41
+grindavik,is,75,2019-07-04 10:59:25,87,63.84,-22.43,51.8,12.75
+cristalina,br,0,2019-07-04 10:59:26,30,-16.77,-47.61,82.74,11.54
+sao filipe,cv,84,2019-07-04 10:59:28,86,14.9,-24.5,73.74,17.6
+marquette,us,5,2019-07-04 10:59:29,60,46.54,-87.4,84.0,13.87
+atar,mr,0,2019-07-04 10:59:30,6,20.52,-13.05,114.96,17.27
+gunjur,gm,20,2019-07-04 10:59:32,59,13.18,-16.76,89.6,11.41
+flinders,au,90,2019-07-04 10:59:34,100,-34.58,150.85,60.01,5.82
+meybod,ir,20,2019-07-04 10:59:36,11,32.25,54.02,107.6,4.7
+egvekinot,ru,46,2019-07-04 10:59:37,94,66.32,-179.17,41.52,11.56
+necochea,ar,100,2019-07-04 10:55:39,72,-38.55,-58.74,46.0,15.99
+fort-shevchenko,kz,0,2019-07-04 10:59:39,62,44.51,50.26,76.8,7.65
+tete,mz,20,2019-07-04 10:59:40,37,-16.16,33.59,82.4,11.41
+te anau,nz,49,2019-07-04 10:59:42,86,-45.41,167.72,37.38,3.6
+maniitsoq,gl,93,2019-07-04 10:59:43,75,65.42,-52.9,44.4,10.92
+kysyl-syr,ru,100,2019-07-04 10:59:44,98,63.9,122.77,48.18,6.85
+qinhuangdao,cn,51,2019-07-04 10:59:45,64,39.94,119.59,69.6,0.81
+chokurdakh,ru,67,2019-07-04 10:59:46,85,70.62,147.9,42.06,4.61
+fort nelson,ca,40,2019-07-04 10:59:49,76,58.81,-122.69,57.2,3.36
+cockburn town,tc,40,2019-07-04 10:59:50,66,21.46,-71.14,86.0,11.41
+ola,ru,99,2019-07-04 10:59:52,94,59.58,151.3,44.94,7.09
+pacifica,us,90,2019-07-04 10:59:53,87,37.61,-122.49,60.01,3.36
+enid,us,20,2019-07-04 10:59:54,88,36.4,-97.88,82.99,18.34
+sargatskoye,ru,5,2019-07-04 10:59:57,91,55.6,73.49,61.14,7.52
+tera,ne,100,2019-07-04 10:59:58,21,14.01,0.75,103.62,3.09
+bredasdorp,za,100,2019-07-04 10:59:59,43,-34.53,20.04,71.6,17.22
+nevers,fr,0,2019-07-04 11:00:00,27,46.99,3.16,87.8,9.17
+hita,jp,100,2019-07-04 11:00:03,94,33.31,130.95,75.99,2.24
+busselton,au,83,2019-07-04 11:00:05,98,-33.64,115.35,53.01,29.89
+waipawa,nz,100,2019-07-04 11:00:07,95,-39.94,176.59,43.0,7.78
+yatou,cn,0,2019-07-04 11:00:08,84,33.81,104.32,49.26,1.86
+kefamenanu,id,0,2019-07-04 11:00:09,78,-9.45,124.48,63.3,4.27
+tianpeng,cn,85,2019-07-04 11:00:10,83,28.88,112.34,73.74,6.73
+itoman,jp,75,2019-07-04 11:00:11,88,26.12,127.67,80.6,9.17
+yuncheng,cn,0,2019-07-04 11:00:13,45,35.03,111.0,78.24,1.83
+gorontalo,id,100,2019-07-04 10:59:33,92,0.54,123.06,73.02,1.97
+black river,jm,0,2019-07-04 10:58:29,55,18.03,-77.85,86.0,6.93
+zhigansk,ru,92,2019-07-04 10:59:35,76,66.77,123.37,48.9,6.76
+upernavik,gl,0,2019-07-04 11:00:17,69,72.79,-56.15,42.06,8.01
+bathsheba,bb,40,2019-07-04 11:00:18,70,13.22,-59.52,87.8,24.16
+isangel,vu,0,2019-07-04 11:00:19,76,-19.55,169.27,74.1,5.39
+samfya,zm,73,2019-07-04 11:00:21,35,-11.37,29.56,75.9,4.27
+skibbereen,ie,40,2019-07-04 11:00:22,68,51.55,-9.27,68.0,8.05
+poya,nc,100,2019-07-04 11:00:23,76,-21.35,165.16,71.04,10.49
+sur,om,0,2019-07-04 11:00:24,58,22.57,59.53,88.32,11.25
+churapcha,ru,68,2019-07-04 11:00:26,85,62.0,132.43,46.74,4.63
+kabugao,ph,14,2019-07-04 11:00:29,95,18.02,121.18,67.62,0.67
+varhaug,no,75,2019-07-04 11:00:30,81,58.61,5.65,53.6,11.41
+cherskiy,ru,98,2019-07-04 11:00:31,69,68.75,161.3,46.2,6.82
+okhotsk,ru,100,2019-07-04 11:00:32,97,59.36,143.24,47.28,11.74
+makokou,ga,94,2019-07-04 11:00:34,80,0.56,12.85,79.5,2.08
+san vicente de canete,pe,70,2019-07-04 11:00:35,80,-13.08,-76.38,60.96,5.99
+alyangula,au,13,2019-07-04 11:00:36,88,-13.85,136.42,62.6,8.12
+puerto escondido,mx,40,2019-07-04 11:00:37,78,15.86,-97.07,80.6,2.24
+ushuaia,ar,0,2019-07-04 10:58:32,92,-54.81,-68.31,24.8,8.05
+dingle,ie,67,2019-07-04 11:00:39,68,52.14,-10.27,58.44,6.33
+scottsboro,us,1,2019-07-04 11:00:42,83,34.67,-86.03,88.0,1.99
+port elizabeth,za,0,2019-07-04 10:58:51,72,-33.92,25.57,62.6,14.99
+conceicao da barra,br,0,2019-07-04 11:00:28,53,-18.59,-39.73,85.44,6.73
+kununurra,au,0,2019-07-04 11:00:45,62,-15.77,128.74,55.4,10.04
+nikki,bj,100,2019-07-04 11:00:46,61,9.94,3.21,85.26,2.24
+sorochinsk,ru,26,2019-07-04 11:00:47,65,52.43,53.15,72.3,9.62
+roald,no,40,2019-07-04 11:00:49,62,62.58,6.12,57.2,8.05
+east london,za,0,2019-07-04 11:00:50,59,-33.02,27.91,66.2,5.82
+grand gaube,mu,75,2019-07-04 11:00:51,73,-20.01,57.66,73.4,6.93
+rurrenabaque,bo,75,2019-07-04 11:00:52,94,-14.44,-67.53,78.8,2.8
+kaniv,ua,39,2019-07-04 11:00:53,62,49.76,31.46,66.18,10.85
+bratsk,ru,0,2019-07-04 11:00:55,55,56.15,101.63,64.4,2.24
+kutum,sd,99,2019-07-04 11:00:57,19,14.2,24.66,93.36,9.19
+ithaki,gr,20,2019-07-04 11:00:59,74,38.36,20.72,98.6,12.75
+bira,ru,34,2019-07-04 11:01:00,98,49.0,132.47,57.54,2.35
+bonavista,ca,100,2019-07-04 11:01:02,85,48.65,-53.11,51.01,4.0
+calama,cl,0,2019-07-04 11:01:03,15,-22.46,-68.93,55.4,20.8
+atuona,pf,61,2019-07-04 11:01:04,68,-9.8,-139.03,79.68,8.01
+kangaatsiaq,gl,90,2019-07-04 11:01:05,83,68.31,-53.46,42.24,8.34
+longyearbyen,sj,0,2019-07-04 11:01:06,54,78.22,15.64,53.6,16.11
+kattivakkam,in,40,2019-07-04 11:01:08,75,13.22,80.32,89.6,9.17
+bogorodskoye,ru,6,2019-07-04 11:01:09,84,52.37,140.44,52.32,9.06
+kizhinga,ru,70,2019-07-04 11:01:10,58,51.85,109.91,60.42,2.08
+vestmannaeyjar,is,75,2019-07-04 11:01:11,93,63.44,-20.27,51.8,11.41
+punta arenas,cl,75,2019-07-04 11:01:12,92,-53.16,-70.91,30.2,6.93
+laela,tz,81,2019-07-04 11:01:14,40,-8.57,32.05,70.5,6.2
+chalus,ir,20,2019-07-04 11:01:16,61,36.66,51.42,80.6,4.7
+verkhnyaya inta,ru,76,2019-07-04 11:01:17,47,65.99,60.32,80.22,10.65
+sangmelima,cm,100,2019-07-04 11:01:18,89,2.93,11.98,76.44,2.53
+rzeszow,pl,0,2019-07-04 10:57:29,28,50.04,22.0,78.01,10.29
+san andres,co,40,2019-07-04 11:01:21,79,8.22,-76.58,84.2,11.41
+san cristobal,ec,84,2019-07-04 11:01:22,77,-1.02,-79.44,77.34,6.06
+am timan,td,21,2019-07-04 11:01:23,35,11.04,20.28,96.6,2.73
+dharchula,in,100,2019-07-04 11:01:24,96,29.85,80.53,58.44,1.36
+barrow,us,1,2019-07-04 11:01:25,78,39.51,-90.4,82.99,5.82
+rudsar,ir,20,2019-07-04 11:01:26,54,37.14,50.29,82.4,6.93
+ponta do sol,pt,40,2019-07-04 11:01:28,73,32.67,-17.1,73.4,5.82
+jasper,ca,100,2019-07-04 11:01:29,97,52.88,-118.08,37.92,4.36
+banda aceh,id,100,2019-07-04 10:59:36,76,5.56,95.32,84.36,10.13
+vilyuysk,ru,100,2019-07-04 11:01:31,97,63.75,121.63,49.26,7.05
+alofi,nu,18,2019-07-04 10:59:15,69,-19.06,-169.92,73.4,14.99
+kiunga,pg,100,2019-07-04 11:01:33,98,-6.12,141.3,72.12,1.95
+kimbe,pg,86,2019-07-04 11:01:35,89,-5.56,150.15,73.02,4.27
+grand-santi,gf,23,2019-07-04 11:01:36,58,4.27,-54.38,87.06,4.12
+sinnamary,gf,3,2019-07-04 11:01:37,81,5.38,-52.96,80.94,14.0
+lompoc,us,90,2019-07-04 11:01:38,100,34.64,-120.46,60.01,3.36
+sandwick,gb,100,2019-07-04 11:01:39,77,54.57,-2.89,66.99,21.92
+lagoa,pt,20,2019-07-04 11:01:41,73,37.14,-8.45,73.99,16.11
+mindelo,cv,20,2019-07-04 11:01:42,54,16.89,-24.98,84.2,21.92
+pangkalanbuun,id,67,2019-07-04 11:01:43,94,-2.68,111.62,74.64,1.52
+nanortalik,gl,0,2019-07-04 11:01:45,76,60.14,-45.24,41.88,6.85
+vila franca do campo,pt,75,2019-07-04 11:01:46,93,37.72,-25.43,66.2,9.17
+noboribetsu,jp,75,2019-07-04 11:01:48,100,42.42,141.1,63.0,2.24
+warman,ca,75,2019-07-04 11:01:50,82,52.32,-106.58,60.01,6.93
+kamenka,ru,0,2019-07-04 11:01:51,29,53.19,44.05,72.0,14.56
+mackay,au,90,2019-07-04 11:01:52,93,-21.15,149.2,66.2,18.34
+paamiut,gl,82,2019-07-04 11:01:54,72,61.99,-49.67,44.76,6.58
+muros,es,20,2019-07-04 11:01:55,73,42.77,-9.06,75.99,10.29
+bethel,us,90,2019-07-04 10:59:05,100,60.79,-161.76,51.8,3.36
+ahome,mx,17,2019-07-04 11:01:58,77,25.92,-109.18,84.99,4.0
+ixtapa,mx,5,2019-07-04 11:01:59,69,20.71,-105.21,84.99,6.33
+bath,us,75,2019-07-04 11:02:00,66,40.73,-75.39,89.01,7.94
+port alfred,za,0,2019-07-04 10:58:36,84,-33.59,26.89,60.01,2.06
+popondetta,pg,100,2019-07-04 11:02:03,99,-8.77,148.24,64.74,0.54
+kushima,jp,99,2019-07-04 11:02:04,94,31.5,131.29,73.0,3.0
+antalaha,mg,98,2019-07-04 11:00:32,97,-14.9,50.28,64.74,3.13
+kavaratti,in,100,2019-07-04 11:02:06,78,10.57,72.64,84.0,18.12
+la rioja,ar,0,2019-07-04 11:02:07,62,-29.41,-66.86,45.84,7.87
+upington,za,0,2019-07-04 11:02:09,14,-28.46,21.24,75.2,5.82
+gladstone,au,90,2019-07-04 11:02:10,68,-23.84,151.26,66.2,13.87
+nuevitas,cu,20,2019-07-04 11:02:11,78,21.55,-77.27,82.4,8.05
+frankfort,us,75,2019-07-04 11:02:12,78,38.2,-84.87,82.0,4.45
+elko,us,1,2019-07-04 11:02:13,76,40.83,-115.76,59.0,4.0
+agadir,ma,0,2019-07-04 10:58:08,44,30.42,-9.58,80.6,16.11
+corinto,ni,0,2019-07-04 11:02:16,65,12.48,-87.17,82.2,10.71
+opuwo,na,0,2019-07-04 11:02:17,10,-18.06,13.84,83.46,8.28
+morros,br,75,2019-07-04 11:02:19,66,-2.87,-44.04,87.8,10.29
+dubti,et,92,2019-07-04 11:02:20,15,11.74,41.09,104.88,12.66
+berlevag,no,98,2019-07-04 11:02:23,94,70.86,29.09,44.76,9.4
+vanimo,pg,54,2019-07-04 11:02:24,69,-2.67,141.3,82.92,1.52
+chicama,pe,90,2019-07-04 11:02:25,88,-7.84,-79.15,62.6,9.17
+pochutla,mx,40,2019-07-04 11:02:26,74,15.74,-96.47,84.99,3.04
+nadym,ru,49,2019-07-04 11:02:28,46,65.53,72.51,82.56,27.34
+trinidad,uy,20,2019-07-04 11:02:29,75,-33.52,-56.9,44.6,14.52
+jumla,np,100,2019-07-04 11:02:30,97,29.28,82.18,57.54,3.44
+atasu,kz,6,2019-07-04 11:02:31,48,48.68,71.64,72.3,7.94
+safford,us,1,2019-07-04 11:02:32,21,32.83,-109.71,82.99,2.77
+voh,nc,79,2019-07-04 11:02:35,77,-20.95,164.69,70.32,9.6
+qasigiannguit,gl,20,2019-07-04 11:02:36,65,68.82,-51.19,46.4,4.7
+creel,mx,87,2019-07-04 10:58:26,74,27.75,-107.63,60.96,2.93
+auki,sb,0,2019-07-04 11:02:38,78,-8.77,160.7,82.2,18.63
+yellowknife,ca,40,2019-07-04 11:00:55,76,62.45,-114.38,55.4,10.29
+jacareacanga,br,13,2019-07-04 11:02:41,87,-6.22,-57.76,81.12,2.33
+ilulissat,gl,20,2019-07-04 11:02:42,65,69.22,-51.1,46.4,4.7
+san juan de los morros,ve,0,2019-07-04 11:00:32,61,9.91,-67.35,80.76,3.6
+tema,gh,75,2019-07-04 11:02:44,83,5.66,-0.01,80.6,19.46
+mitchell,us,1,2019-07-04 11:00:25,78,43.71,-98.03,73.0,9.17
+saint george,bm,20,2019-07-04 10:59:24,65,32.38,-64.68,80.6,5.82
+jaque,pa,53,2019-07-04 11:02:47,82,7.52,-78.17,80.4,3.4
+paulo afonso,br,20,2019-07-04 11:02:49,58,-9.4,-38.23,84.2,8.05
+vanavara,ru,17,2019-07-04 11:02:50,45,60.35,102.28,62.22,2.17
+bulgan,mn,0,2019-07-04 11:02:52,69,48.81,103.53,49.26,3.94
+inirida,co,83,2019-07-04 11:02:53,72,3.87,-67.92,83.1,1.83
+guerrero negro,mx,0,2019-07-04 11:02:55,89,27.97,-114.04,64.02,10.83
+vestmanna,fo,100,2019-07-04 11:02:56,93,62.16,-7.17,50.0,13.87
+saint-pierre,pm,75,2019-07-04 11:02:58,76,46.77,-56.17,57.2,12.75
+trairi,br,31,2019-07-04 11:02:59,57,-3.28,-39.27,85.98,6.76
+caravelas,br,0,2019-07-04 11:03:01,63,-17.73,-39.27,83.64,5.77
+kloulklubed,pw,75,2019-07-04 11:03:03,88,7.04,134.26,78.8,3.36
+haines junction,ca,3,2019-07-04 11:03:05,62,60.75,-137.51,59.16,3.85
+russkaya polyana,ru,41,2019-07-04 11:03:06,73,53.78,73.88,65.28,6.71
+tasiilaq,gl,20,2019-07-04 11:03:07,62,65.61,-37.64,53.6,14.99
+katsuura,jp,40,2019-07-04 11:03:09,88,33.93,134.5,73.4,6.93
+gushikawa,jp,75,2019-07-04 11:03:10,88,26.35,127.87,80.6,9.17
+glenwood springs,us,1,2019-07-04 11:03:12,43,39.55,-107.33,64.99,3.2
+piste,mx,5,2019-07-04 11:03:13,70,20.7,-88.58,86.0,9.17
+indaiatuba,br,75,2019-07-04 11:00:49,93,-23.09,-47.22,77.0,8.05
+chuy,uy,14,2019-07-04 11:03:15,63,-33.69,-53.46,48.18,18.16
+puerto ayora,ec,20,2019-07-04 11:03:17,69,-0.74,-90.35,75.2,12.75
+port hardy,ca,90,2019-07-04 11:03:19,100,50.7,-127.42,53.6,4.7
+uglegorsk,ru,55,2019-07-04 11:03:20,92,49.08,142.06,51.96,7.02
+bikaner,in,22,2019-07-04 10:59:52,22,28.02,73.32,102.18,8.59
+ventspils,lv,40,2019-07-04 11:03:23,59,57.39,21.56,60.8,17.22
+awjilah,ly,0,2019-07-04 11:03:24,12,29.14,21.3,97.32,13.8
+yenagoa,ng,100,2019-07-04 11:03:25,92,4.92,6.26,76.26,6.89
+tuy hoa,vn,8,2019-07-04 11:03:26,75,13.08,109.3,76.44,3.76
+itanagar,in,100,2019-07-04 11:03:27,91,27.1,93.63,77.88,3.67
+yagodnoye,ru,69,2019-07-04 11:03:28,61,62.52,149.63,53.22,7.47
+alice springs,au,0,2019-07-04 11:03:30,52,-23.7,133.88,44.6,1.12
+yaring,th,64,2019-07-04 11:03:31,76,6.87,101.37,84.36,6.85
+portland,au,100,2019-07-04 11:03:32,98,-33.35,149.98,48.99,1.01
+amos,ca,40,2019-07-04 11:03:33,48,48.57,-78.12,82.4,3.36
+kautokeino,no,100,2019-07-04 11:03:34,91,69.01,23.04,46.92,2.33
+carndonagh,ie,75,2019-07-04 11:03:36,63,55.25,-7.27,64.4,16.11
+chakia,in,24,2019-07-04 11:03:38,46,26.42,85.05,96.42,9.53
+kodiak,us,1,2019-07-04 11:03:39,54,39.95,-94.76,78.8,3.33
+adrar,dz,0,2019-07-04 11:03:40,6,27.87,-0.29,114.8,8.05
+vrangel,ru,90,2019-07-04 11:03:42,97,42.73,133.08,56.28,1.57
+mount gambier,au,3,2019-07-04 11:03:43,93,-37.83,140.78,42.8,6.93
+rio grande,br,0,2019-07-04 10:59:55,50,-32.03,-52.1,51.8,9.17
+dakar,sn,0,2019-07-04 11:03:45,62,14.69,-17.45,84.2,12.75
+sung noen,th,75,2019-07-04 11:03:46,78,14.9,101.82,80.6,6.93
+sosnovka,ru,0,2019-07-04 11:03:48,64,53.23,41.37,62.04,11.74
+stokmarknes,no,75,2019-07-04 11:03:50,87,68.56,14.91,52.0,6.93
+ponta delgada,pt,75,2019-07-04 11:03:51,93,37.73,-25.67,66.2,9.17
+kapaa,us,40,2019-07-04 11:03:52,94,22.08,-159.32,73.4,3.36
+fortuna,us,90,2019-07-04 11:03:53,100,40.6,-124.16,57.99,15.08
+williamsburg,us,1,2019-07-04 11:03:54,62,37.27,-76.71,91.0,2.15
+hof,de,0,2019-07-04 11:01:25,29,50.32,11.92,81.0,3.36
+sokolow podlaski,pl,91,2019-07-04 10:59:59,42,52.41,22.25,69.01,10.51
+mildura,au,0,2019-07-04 11:04:00,87,-34.18,142.16,50.0,6.93
+ayolas,py,0,2019-07-04 11:04:01,51,-27.39,-56.84,54.84,8.59
+holguin,cu,20,2019-07-04 11:00:53,78,20.89,-76.26,82.4,6.93
+shingu,jp,100,2019-07-04 11:04:05,96,33.72,135.99,65.28,3.71
+los llanos de aridane,es,75,2019-07-04 11:04:06,69,28.66,-17.92,75.2,12.75
+skjervoy,no,90,2019-07-04 11:04:07,100,70.03,20.97,46.4,16.11
+swellendam,za,67,2019-07-04 11:02:21,43,-34.02,20.44,71.6,17.22
+hachinohe,jp,90,2019-07-04 11:04:11,100,40.47,141.48,64.0,3.36
+saint-augustin,ca,75,2019-07-04 11:04:12,65,45.63,-73.98,87.01,3.36
+swan hill,au,0,2019-07-04 11:04:13,93,-35.34,143.56,47.28,8.81
+hauterive,ca,1,2019-07-04 11:04:14,68,49.18,-68.27,73.4,10.29
+hithadhoo,mv,99,2019-07-04 11:03:30,76,-0.6,73.08,84.72,12.39
+yar,ru,21,2019-07-04 11:04:16,85,58.24,52.11,57.72,10.56
+lahaina,us,1,2019-07-04 11:04:19,78,20.87,-156.68,73.4,8.05
+clovis,us,1,2019-07-04 11:03:07,52,36.83,-119.7,71.01,6.93
+dikson,ru,100,2019-07-04 11:04:21,96,73.51,80.55,34.5,15.26
+stornoway,gb,90,2019-07-04 11:04:22,93,58.21,-6.39,57.2,13.87
+klaksvik,fo,100,2019-07-04 11:00:12,93,62.23,-6.59,50.0,13.87
+broken hill,au,0,2019-07-04 11:04:24,66,-31.97,141.45,55.4,11.41
+mar del plata,ar,0,2019-07-04 11:04:26,62,-46.43,-67.52,33.24,8.14
+panzhihua,cn,100,2019-07-04 11:04:27,74,26.59,101.72,70.32,3.24
+touros,br,75,2019-07-04 11:02:10,70,-5.2,-35.46,86.0,10.29
+lock haven,us,1,2019-07-04 11:04:30,69,41.14,-77.45,84.0,6.13
+green river,us,75,2019-07-04 11:04:31,62,41.53,-109.47,62.01,3.49
+danilov,ru,90,2019-07-04 11:04:33,81,58.19,40.17,53.6,20.13
+padang,id,67,2019-07-04 11:04:34,79,-0.92,100.36,83.64,12.15
+kingaroy,au,31,2019-07-04 11:04:35,93,-26.54,151.84,53.6,10.29
+georgetown,gy,75,2019-07-04 11:02:29,78,6.8,-58.16,84.2,11.41
+hamilton,bm,20,2019-07-04 11:02:28,65,32.3,-64.78,80.6,5.82
+walvis bay,na,0,2019-07-04 10:59:43,25,-22.95,14.51,87.8,14.99
+grand forks,ca,100,2019-07-04 11:04:41,90,49.03,-118.46,59.0,1.41
+abnub,eg,0,2019-07-04 11:04:43,18,27.27,31.15,100.4,16.11
+monte carmelo,br,88,2019-07-04 11:04:44,51,-18.73,-47.5,71.58,7.61
+ahipara,nz,34,2019-07-04 11:04:45,69,-35.17,173.16,57.18,25.1
+vao,nc,100,2019-07-04 11:04:46,78,-22.67,167.48,71.76,13.24
+matara,lk,91,2019-07-04 11:04:48,90,5.95,80.54,79.32,4.5
+dunedin,nz,90,2019-07-04 11:04:49,79,-45.87,170.5,44.01,18.99
+kendari,id,31,2019-07-04 11:04:50,92,-3.99,122.52,71.76,1.66
+qidong,cn,100,2019-07-04 11:04:51,33,31.81,121.66,82.0,7.09
+thompson,ca,75,2019-07-04 11:04:53,66,55.74,-97.86,55.4,11.41
+nelson bay,au,40,2019-07-04 11:04:54,72,-32.72,152.14,61.0,6.93
+surgut,ru,0,2019-07-04 11:04:55,65,61.25,73.4,77.0,6.71
+ndende,ga,68,2019-07-04 11:04:57,49,-2.4,11.36,85.98,8.16
+kahului,us,20,2019-07-04 11:00:08,87,20.89,-156.47,73.4,5.82
+simao,cn,100,2019-07-04 11:05:01,84,22.76,100.79,74.1,3.0
+serov,ru,87,2019-07-04 11:05:02,94,59.61,60.57,62.94,4.05
+new norfolk,au,40,2019-07-04 11:05:03,93,-42.78,147.06,42.01,6.93
+cahors,fr,0,2019-07-04 11:00:43,33,44.45,1.44,98.01,3.0
+arraial do cabo,br,20,2019-07-04 11:05:06,78,-22.97,-42.02,78.8,9.17
+nianzishan,cn,100,2019-07-04 11:05:08,85,47.51,122.88,65.46,2.89
+komsomolskiy,ru,48,2019-07-04 11:05:09,41,67.55,63.78,80.58,14.0
+arroyos y esteros,py,0,2019-07-04 11:05:10,27,-25.05,-57.1,62.6,12.75
+beamsville,ca,75,2019-07-04 11:04:54,83,43.17,-79.48,87.01,10.74
+aswan,eg,0,2019-07-04 11:05:13,6,24.09,32.9,107.6,17.22
+nome,us,20,2019-07-04 11:05:16,74,30.04,-94.42,89.01,9.17
+lisala,cd,72,2019-07-04 11:02:07,89,2.15,21.52,75.18,4.97
+rio gallegos,ar,40,2019-07-04 11:05:18,92,-51.62,-69.22,23.0,2.24
+norman wells,ca,40,2019-07-04 11:02:43,59,65.28,-126.83,60.8,10.29
+abha,sa,40,2019-07-04 11:05:21,44,18.22,42.5,82.4,11.41
+saldanha,za,100,2019-07-04 11:05:23,63,-33.01,17.94,62.6,5.82
+rocha,uy,26,2019-07-04 11:04:47,66,-34.48,-54.34,45.3,20.6
+beloha,mg,90,2019-07-04 11:05:25,72,-25.17,45.06,68.16,8.68
+coquimbo,cl,0,2019-07-04 11:05:26,76,-29.95,-71.34,55.4,3.36
+comodoro rivadavia,ar,20,2019-07-04 11:05:27,55,-45.87,-67.48,33.8,3.36
+kyra,ru,15,2019-07-04 11:05:28,93,49.58,111.97,49.8,3.74
+high level,ca,75,2019-07-04 11:05:30,87,58.52,-117.13,51.8,9.17
+dalvik,is,90,2019-07-04 11:05:31,93,65.97,-18.53,50.0,14.99
+faanui,pf,100,2019-07-04 11:05:32,76,-16.48,-151.75,75.54,31.9
+pevek,ru,95,2019-07-04 11:05:33,99,69.7,170.27,33.06,7.94
+buala,sb,1,2019-07-04 11:05:34,81,-8.15,159.59,78.96,6.38
+gimli,ca,0,2019-07-04 11:04:07,48,50.63,-96.99,72.0,5.01
+puerto el triunfo,sv,0,2019-07-04 11:05:37,54,13.27,-88.55,86.0,5.82
+sitka,us,0,2019-07-04 11:05:39,69,37.17,-99.65,81.0,11.99
+salym,ru,72,2019-07-04 11:05:40,66,60.06,71.48,68.7,4.47
+miri,my,75,2019-07-04 11:05:41,94,4.41,114.01,77.0,3.36
+tiksi,ru,100,2019-07-04 11:05:44,92,71.64,128.87,35.58,5.23
+nikolskoye,ru,20,2019-07-04 11:05:46,45,59.7,30.79,64.0,15.66
+namie,jp,34,2019-07-04 11:05:47,95,37.52,140.86,68.0,2.62
+panique,ph,2,2019-07-04 11:05:48,76,12.48,122.02,81.48,4.03
+apac,ug,14,2019-07-04 11:05:50,70,1.98,32.53,77.52,0.94
+oranjemund,na,0,2019-07-04 11:05:51,93,-28.55,16.43,56.64,9.48
+birao,cf,22,2019-07-04 11:05:52,37,10.3,22.78,94.08,4.14
+ambilobe,mg,100,2019-07-04 11:05:53,64,-13.19,49.05,77.7,3.8
+tuatapere,nz,22,2019-07-04 11:05:54,70,-46.13,167.69,46.74,10.85
+moju,br,75,2019-07-04 11:05:57,66,-1.89,-48.77,86.0,8.05
+pisco,pe,90,2019-07-04 11:05:59,30,-13.71,-76.2,71.6,3.36
+geraldton,ca,75,2019-07-04 11:06:01,61,49.72,-86.95,77.0,10.29
+kovdor,ru,100,2019-07-04 11:06:02,66,67.56,30.47,59.34,3.62
+ust-tsilma,ru,77,2019-07-04 11:06:04,82,65.44,52.15,65.28,4.5
+ambulu,id,8,2019-07-04 11:06:05,88,-8.35,113.61,76.98,9.73
+ucluelet,ca,90,2019-07-04 11:06:06,93,48.94,-125.55,57.99,4.74
+port blair,in,90,2019-07-04 11:06:07,83,11.67,92.75,82.4,11.41
+tshane,bw,0,2019-07-04 11:06:12,10,-24.02,21.87,71.76,2.71
+hilo,us,90,2019-07-04 11:06:13,88,19.71,-155.08,73.4,4.7
+huarmey,pe,70,2019-07-04 11:06:14,84,-10.07,-78.15,63.12,10.18
+tabou,ci,100,2019-07-04 11:06:15,84,4.42,-7.36,76.62,7.45
+anchorage,us,20,2019-07-04 11:04:01,67,61.22,-149.89,64.4,3.36
+nara,ml,100,2019-07-04 11:06:18,20,15.17,-7.29,105.42,7.34
+pasni,pk,0,2019-07-04 11:06:19,74,25.26,63.48,85.26,5.77
+malazgirt,tr,20,2019-07-04 11:06:20,16,39.15,42.54,84.2,8.05
+tuburan,ph,90,2019-07-04 11:06:21,83,10.73,123.82,77.0,5.82
+tuktoyaktuk,ca,75,2019-07-04 11:06:22,87,69.44,-133.03,55.4,13.87
+sugag,ro,20,2019-07-04 11:06:24,39,45.77,23.63,81.0,13.87
+sao joao da barra,br,0,2019-07-04 11:06:25,45,-21.64,-41.05,86.0,4.7
+kirakira,sb,89,2019-07-04 11:06:26,87,-10.46,161.92,76.62,4.74
+nouadhibou,mr,0,2019-07-04 11:06:27,57,20.93,-17.03,78.8,16.11
+san policarpo,ph,80,2019-07-04 11:06:28,80,12.18,125.51,80.04,4.94
+si racha,th,75,2019-07-04 11:06:30,78,13.17,100.93,86.0,3.36
+razole,in,100,2019-07-04 11:06:32,76,16.48,81.84,86.34,12.21
+tessalit,ml,95,2019-07-04 11:06:33,10,20.2,1.01,108.12,14.5
+yasugi,jp,20,2019-07-04 11:06:34,83,35.43,133.25,71.6,9.17
+mandiana,gn,61,2019-07-04 11:06:35,66,10.62,-8.7,85.44,5.95
+bat yam,il,0,2019-07-04 11:06:37,42,32.02,34.75,87.01,12.75
+bluff,nz,33,2019-07-04 11:06:38,69,-46.6,168.33,46.56,8.61
+bandarbeyla,so,18,2019-07-04 11:06:39,31,9.49,50.81,94.62,17.05
+husavik,is,90,2019-07-04 11:06:40,93,66.04,-17.34,50.0,14.99
+shellbrook,ca,75,2019-07-04 11:06:41,76,53.22,-106.39,55.4,9.17
+xining,cn,27,2019-07-04 11:06:43,63,36.62,101.77,53.04,6.31
+sarmanovo,ru,20,2019-07-04 11:06:44,35,55.25,52.59,71.6,13.42
+teeli,ru,100,2019-07-04 11:06:45,80,51.01,90.2,57.18,8.48
+ibirapitanga,br,0,2019-07-04 11:06:46,40,-14.16,-39.37,87.96,3.96
+custoias,pt,98,2019-07-04 11:06:47,68,41.11,-7.32,73.99,4.0
+marawi,sd,2,2019-07-04 11:06:49,7,18.48,31.82,110.28,5.95
+klyuchi,ru,33,2019-07-04 11:06:50,53,52.25,79.17,71.94,8.46
+kudahuvadhoo,mv,99,2019-07-04 11:06:51,77,2.67,72.89,84.0,8.03
+deer lake,ca,90,2019-07-04 11:06:52,76,49.18,-57.43,55.4,6.93
+awbari,ly,0,2019-07-04 11:06:53,6,26.59,12.77,104.16,12.62
+clyde river,ca,90,2019-07-04 11:06:55,93,70.47,-68.59,37.4,5.82
+harper,lr,100,2019-07-04 11:06:56,83,4.38,-7.71,77.34,13.89
+jamestown,sh,99,2019-07-04 11:06:57,78,-15.94,-5.72,69.6,22.03
+san matias,bo,0,2019-07-04 11:06:58,45,-16.36,-58.4,87.24,2.44
+belmonte,br,0,2019-07-04 11:06:59,46,-26.84,-53.58,53.76,4.65
+beringovskiy,ru,81,2019-07-04 11:07:00,87,63.05,179.32,49.44,5.79
+mweka,cd,51,2019-07-04 11:07:03,17,-4.85,21.56,96.24,2.71
+sola,vu,67,2019-07-04 11:07:04,83,-13.88,167.55,79.5,17.36
+sorong,id,100,2019-07-04 11:07:05,96,-0.86,131.25,72.66,6.22
+mount pleasant,us,20,2019-07-04 11:07:06,75,32.79,-79.86,91.0,8.05
+neuquen,ar,75,2019-07-04 11:07:08,86,-38.95,-68.06,39.2,2.24
+ostrovnoy,ru,100,2019-07-04 11:07:09,88,68.05,39.51,52.14,7.65
+berkak,no,100,2019-07-04 11:07:10,83,62.83,10.01,50.0,1.43
+aykhal,ru,90,2019-07-04 11:07:11,72,65.95,111.51,60.8,8.97
+lavrentiya,ru,85,2019-07-04 11:07:12,88,65.58,-170.99,47.28,8.61
+suzun,ru,61,2019-07-04 11:07:16,82,53.78,82.32,63.66,8.93
+provideniya,ru,100,2019-07-04 11:07:19,89,64.42,-173.23,48.18,4.27
+rudbar,af,0,2019-07-04 11:07:20,11,30.15,62.6,99.3,19.84
+kazerun,ir,20,2019-07-04 11:07:21,4,29.62,51.65,108.3,16.8
+jizan,sa,75,2019-07-04 11:07:23,63,16.89,42.56,93.2,9.17
+shache,cn,0,2019-07-04 11:07:24,77,38.42,77.24,84.99,10.42
+omboue,ga,72,2019-07-04 11:07:25,85,-1.57,9.26,73.56,12.59
+half moon bay,us,20,2019-07-04 11:07:27,82,37.46,-122.43,61.0,3.87
+umm lajj,sa,0,2019-07-04 11:07:29,77,25.02,37.27,85.08,6.64
+otane,nz,100,2019-07-04 11:07:30,96,-39.89,176.62,44.01,7.78
+rawson,ar,0,2019-07-04 11:07:31,60,-43.3,-65.11,36.48,14.92
+jutai,br,22,2019-07-04 11:07:32,58,-1.71,-47.89,88.14,5.66
+makakilo city,us,20,2019-07-04 11:07:33,83,21.35,-158.09,75.2,3.36
+hami,cn,24,2019-07-04 11:07:35,13,42.84,93.51,91.02,24.07
+oistins,bb,40,2019-07-04 11:03:16,70,13.07,-59.53,87.8,24.16
+kolpashevo,ru,100,2019-07-04 11:07:37,90,58.31,82.9,67.62,5.21
+diffa,ne,40,2019-07-04 11:07:38,29,13.32,12.61,98.4,6.04
+pendleton,us,1,2019-07-04 11:07:39,62,45.67,-118.79,70.0,5.82
+baie-comeau,ca,1,2019-07-04 11:07:41,68,49.22,-68.15,73.4,10.29
+port-cartier,ca,75,2019-07-04 11:07:42,63,50.03,-66.88,64.4,8.05
+victoria,sc,40,2019-07-04 11:07:43,83,-4.62,55.45,80.6,5.82
+narsaq,gl,40,2019-07-04 11:07:44,44,60.91,-46.05,59.0,5.82
+maragogi,br,68,2019-07-04 11:07:45,71,-9.01,-35.22,82.56,5.06
+bama,ng,92,2019-07-04 11:07:47,38,11.52,13.69,93.36,7.9
+kavieng,pg,100,2019-07-04 11:07:48,72,-2.57,150.8,84.36,12.35
+rancho palos verdes,us,1,2019-07-04 11:04:22,72,33.75,-118.37,69.01,3.96
+srednekolymsk,ru,100,2019-07-04 11:07:50,80,67.46,153.71,49.44,9.84
+peleduy,ru,84,2019-07-04 11:07:51,61,59.63,112.75,59.7,6.85
+pakxan,la,100,2019-07-04 11:07:52,98,18.39,103.66,72.66,2.35
+itarema,br,14,2019-07-04 11:07:54,57,-2.92,-39.92,87.42,9.93
+ulladulla,au,90,2019-07-04 11:07:55,100,-35.36,150.48,52.0,5.82
+antalya,tr,20,2019-07-04 11:07:56,62,36.9,30.69,84.2,8.05
+valleyview,ca,0,2019-07-04 11:07:57,81,55.07,-117.28,53.94,3.89
+bandarban,bd,75,2019-07-04 11:07:58,83,22.2,92.22,84.2,4.7
+tolaga bay,nz,100,2019-07-04 11:08:01,98,-38.37,178.3,49.62,7.47
+saskylakh,ru,55,2019-07-04 11:08:03,79,71.97,114.09,51.78,6.04
+iberia,pe,0,2019-07-04 11:08:04,50,-11.41,-69.49,86.16,5.84
+la plata,ar,20,2019-07-04 11:05:10,65,-34.92,-57.95,46.4,14.99
+yuanping,cn,31,2019-07-04 11:08:07,49,38.72,112.71,66.36,3.96
+hobart,au,40,2019-07-04 11:08:08,93,-42.88,147.33,42.01,6.93
+kitgum,ug,91,2019-07-04 11:08:09,82,3.3,32.88,77.7,3.2
+jalpan,mx,84,2019-07-04 11:08:10,60,19.0,-100.36,63.0,1.1
+bambous virieux,mu,75,2019-07-04 11:08:11,73,-20.34,57.76,73.4,6.93
+verkhnyaya balkariya,ru,75,2019-07-04 11:08:14,44,43.13,43.46,80.6,4.47
+kilindoni,tz,0,2019-07-04 11:08:15,73,-7.91,39.67,79.32,21.25
+panzos,gt,0,2019-07-04 11:08:18,64,15.4,-89.67,75.36,3.62
+duzce,tr,0,2019-07-04 11:08:19,71,40.84,31.16,76.8,7.7
+alta floresta,br,0,2019-07-04 11:08:21,52,-9.87,-56.08,89.6,5.82
+jambi,id,49,2019-07-04 11:07:07,92,-1.6,103.62,75.72,1.81
+ribeira grande,pt,40,2019-07-04 11:08:25,64,38.52,-28.7,75.2,8.05
+aitape,pg,73,2019-07-04 11:08:26,88,-3.15,142.36,76.44,3.98
+batagay-alyta,ru,100,2019-07-04 11:08:27,74,67.8,130.41,39.54,2.73
+geraldton,au,40,2019-07-04 11:08:30,87,-28.77,114.6,55.4,11.41
+burns lake,ca,100,2019-07-04 11:08:31,92,54.23,-125.76,51.42,2.93
+wanning,cn,76,2019-07-04 11:08:32,91,18.8,110.4,75.18,3.65
+viedma,ar,71,2019-07-04 11:08:33,59,-40.81,-62.99,44.58,19.53
+anuchino,ru,2,2019-07-04 11:08:36,97,43.97,133.06,54.66,3.27
+luanda,ao,0,2019-07-04 11:07:07,88,-8.83,13.24,73.4,11.41
+angoche,mz,3,2019-07-04 11:08:38,78,-16.23,39.91,70.14,5.01
+hovd,mn,90,2019-07-04 11:08:39,37,48.01,91.64,64.38,1.12
+marsh harbour,bs,99,2019-07-04 11:08:41,68,26.54,-77.06,83.64,6.38
+cabo san lucas,mx,5,2019-07-04 11:05:44,47,22.89,-109.91,87.01,3.94
+hobyo,so,100,2019-07-04 11:08:45,66,5.35,48.53,79.86,30.49
+novichikha,ru,73,2019-07-04 11:08:46,56,52.2,81.39,71.04,0.78
+saint-philippe,re,0,2019-07-04 11:08:47,73,-21.36,55.77,73.4,4.7
+pareora,nz,1,2019-07-04 11:08:48,67,-44.49,171.21,42.01,3.0
+giyani,za,0,2019-07-04 11:08:50,27,-23.32,30.73,70.86,4.97
+umarkot,in,100,2019-07-04 11:08:52,86,19.67,82.22,76.26,12.37
+vostok,ru,38,2019-07-04 11:08:53,95,46.45,135.83,56.82,3.13
+mahebourg,mu,75,2019-07-04 11:08:54,73,-20.41,57.7,73.4,6.93
+barranca,pe,100,2019-07-04 11:08:56,82,-10.75,-77.76,62.4,11.23
+sena madureira,br,0,2019-07-04 11:08:57,49,-9.07,-68.66,87.06,4.0
+daru,pg,72,2019-07-04 11:08:59,84,-9.07,143.21,73.92,8.77
+xixiang,cn,40,2019-07-04 11:09:00,79,22.58,113.87,84.2,6.93
+tilichiki,ru,16,2019-07-04 11:09:01,93,60.47,166.1,46.02,1.59
+nantucket,us,1,2019-07-04 11:09:03,65,41.28,-70.1,87.01,6.93
+neiafu,to,20,2019-07-04 11:09:05,83,-18.65,-173.98,75.2,12.75
+los lunas,us,1,2019-07-04 11:09:06,19,34.81,-106.76,81.0,4.7
+mayo,ca,75,2019-07-04 11:09:07,67,63.59,-135.9,60.8,2.24
+talnakh,ru,0,2019-07-04 11:09:09,64,69.49,88.39,71.6,11.18
+hasaki,jp,75,2019-07-04 11:09:10,93,35.73,140.83,66.2,6.93
+yingcheng,cn,100,2019-07-04 11:09:11,88,30.93,113.57,80.6,2.24
+avarua,ck,57,2019-07-04 11:09:12,82,-21.21,-159.78,66.2,3.36
+mvuma,zw,0,2019-07-04 11:09:13,27,-19.28,30.53,68.52,5.82
+hochstadt,de,0,2019-07-04 11:09:15,25,50.15,8.83,82.0,4.7
+shimoda,jp,75,2019-07-04 11:09:16,88,34.7,138.93,75.2,4.7
+brandon,us,40,2019-07-04 11:08:17,73,43.59,-96.57,73.0,3.36
+tiznit,ma,0,2019-07-04 11:04:31,84,29.7,-9.73,67.26,17.92
+yerofey pavlovich,ru,0,2019-07-04 11:09:19,65,53.97,121.97,45.12,6.98
+castro,cl,40,2019-07-04 11:09:21,100,-42.48,-73.76,37.4,3.36
+north bend,us,1,2019-07-04 11:09:23,93,43.41,-124.22,57.0,11.99
+petropavlovsk-kamchatskiy,ru,90,2019-07-04 11:09:24,100,53.05,158.65,48.2,2.24
+trincomalee,lk,82,2019-07-04 11:09:25,67,8.58,81.23,82.02,6.44
+butaritari,ki,100,2019-07-04 11:09:26,70,3.07,172.79,83.46,5.12
+lebu,cl,57,2019-07-04 11:09:27,70,-37.62,-73.65,51.96,18.45
