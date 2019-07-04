@@ -1,599 +1,827 @@
 City,Country
-winnemucca,us
-chaa-khol,ru
-yirol,sd
-san mariano,ph
-clyde river,ca
-sisimiut,gl
-caribou,us
-lasa,cn
-guerrero negro,mx
-yulara,au
-ulundi,za
-sucua,ec
-lebu,cl
-zerbst,de
-laem sing,th
-bolshiye uki,ru
-vardo,no
-youghal,ie
-izumo,jp
-jadu,ly
-okato,nz
-damietta,eg
-toliary,mg
-tigre,pa
-broome,au
-vao,nc
-ribeira grande,pt
-margate,za
-naryan-mar,ru
-akhmim,eg
-waipawa,nz
-cherskiy,ru
-pitimbu,br
-zonguldak,tr
-harper,lr
-sao jose da coroa grande,br
-jamestown,sh
-nome,us
-saint george,bm
-si bun ruang,th
-port blair,in
-ukiah,us
-college,us
-cape town,za
-rikitea,pf
-mandapeta,in
-saskylakh,ru
-inirida,co
-orlovskiy,ru
-salvador,br
-benguela,ao
-marabba,sd
-port-cartier,ca
-darnah,ly
-rocha,uy
-oudtshoorn,za
-hobart,au
-sibu,my
-brewster,us
-ginir,et
-buala,sb
-vila franca do campo,pt
-billings,us
-atasu,kz
-geraldton,ca
-castro,cl
-homer,us
-raudeberg,no
-santo antonio do ica,br
-pathein,mm
-komsomolskiy,ru
-diapaga,bf
-bluff,nz
-boca do acre,br
-busselton,au
-lazarev,ru
-uva,ru
-codrington,ag
-idil,tr
-antofagasta,cl
-farah,af
-olean,us
-talas,kg
-huilong,cn
-nishihara,jp
-ilulissat,gl
-shakawe,bw
-wanning,cn
-osorheiu,ro
-matagami,ca
-rungata,ki
-eskasem,af
-eucaliptus,bo
-chuy,uy
-siedlce,pl
-ambodifototra,mg
-pochutla,mx
-koumac,nc
-oktyabrskiy,ru
-vilyuysk,ru
-comodoro rivadavia,ar
-recodo,ph
-baruun-urt,mn
-stephenville,us
-okhotsk,ru
-berlevag,no
-ponta delgada,pt
-conchas,br
-medea,dz
-flinders,au
-sumbawanga,tz
-magui,co
-dhidhdhoo,mv
-wencheng,cn
-severo-kurilsk,ru
-isangel,vu
-new norfolk,au
-tuatapere,nz
-saint-leu,re
-ahipara,nz
-georgetown,sh
-kahului,us
-torbay,ca
-shevchenkove,ua
-bubaque,gw
-catalao,br
-gisborne,nz
-rzhaksa,ru
-maumere,id
-stoyba,ru
-mackay,au
-kavaratti,in
-marrakesh,ma
-talnakh,ru
-oistins,bb
-sitka,us
-hohhot,cn
-lowestoft,gb
-svetlogorsk,ru
-mercedes,uy
-dingle,ie
-noormarkku,fi
-gonda,in
-shizunai,jp
-biggar,ca
-poum,nc
-chokurdakh,ru
-umm durman,sd
-lompoc,us
-cabo san lucas,mx
-mahebourg,mu
-ola,ru
-port-gentil,ga
-kamenskoye,ru
-zambezi,zm
-touros,br
-bonthe,sl
-samusu,ws
-putla,mx
-namie,jp
-sabang,id
-pravda,ru
-khani,ru
-opuwo,na
-bitam,ga
-mount isa,au
-shimoda,jp
-te anau,nz
-panzhihua,cn
-deming,us
-real,pt
-varberg,se
-tiksi,ru
-messini,gr
-salalah,om
-hithadhoo,mv
-provideniya,ru
-jizan,sa
-dikson,ru
-hit,iq
-namatanai,pg
-khatanga,ru
-kingsville,us
-luderitz,na
-tasiilaq,gl
-kyren,ru
-mecca,sa
-trelew,ar
-angoche,mz
-karratha,au
-puerto pinasco,py
-gorno-chuyskiy,ru
-boden,se
-shintomi,jp
-bethel,us
-mount gambier,au
-stepnogorsk,kz
-quatre cocos,mu
-saleaula,ws
-amparai,lk
-buseresere,tz
-guajara,br
-bathsheba,bb
-dharchula,in
-quiruvilca,pe
-nanortalik,gl
-nantucket,us
-alugan,ph
-coquimbo,cl
-oussouye,sn
-kurmanayevka,ru
-lisakovsk,kz
-roald,no
-curup,id
-naze,jp
-daru,pg
-panaba,mx
-lodja,cd
-kidal,ml
-hermanus,za
-jasper,ca
-victoria,sc
-tadine,nc
-nara,ml
-dien bien,vn
-halalo,wf
-ulaangom,mn
-kendari,id
-louisbourg,ca
-sentyabrskiy,ru
-roros,no
-aklavik,ca
-suoyarvi,ru
-rassvet,ru
-panuco,mx
-barrow,us
-sai buri,th
-olafsvik,is
-narsaq,gl
-belushya guba,ru
-cabo rojo,us
-iranshahr,ir
-masindi,ug
-georgetown,us
-brunico,it
-longyearbyen,sj
-gladstone,au
-shchors,ua
-mar del plata,ar
-sorvag,fo
-attawapiskat,ca
-natal,br
-cerrito,py
-grindavik,is
-nouadhibou,mr
-cerveteri,it
-salinopolis,br
-bilma,ne
-kudahuvadhoo,mv
-luanda,ao
-heishan,cn
-kavieng,pg
-katsuura,jp
-pangkalanbuun,id
-rawlins,us
-illoqqortoormiut,gl
-pevek,ru
-iqaluit,ca
-flores,br
-atherton,au
-tambopata,pe
-mamallapuram,in
-kargasok,ru
-petropavlovsk-kamchatskiy,ru
-upernavik,gl
-zyryanka,ru
-shenkursk,ru
-jacareacanga,br
-gamba,ga
-saint-louis,sn
-eyl,so
-chagda,ru
-san cristobal,ec
-tuktoyaktuk,ca
-mys shmidta,ru
-hamilton,bm
-abomey,bj
-tulungagung,id
-danane,ci
-bredasdorp,za
-klaksvik,fo
-cidreira,br
-marondera,zw
-kupang,id
-mataura,pf
-san patricio,mx
-hamilton,au
-pospelikha,ru
-taitung,tw
-krasnoselkup,ru
-bonavista,ca
-puerto escondido,mx
-broken hill,au
-jurado,co
-marevo,ru
-puerto carreno,co
 port elizabeth,za
-chernyshevskiy,ru
-manyana,bw
-tura,ru
-constitucion,cl
-newcastle,au
-butaritari,ki
-dujuma,so
-hay river,ca
-esperance,au
-pemba,mz
-miri,my
-kuldiga,lv
-hovd,mn
-ust-nera,ru
-port alfred,za
-guhagar,in
-kazalinsk,kz
-chipata,zm
-bambous virieux,mu
-shkotovo-22,ru
-samarai,pg
-qasigiannguit,gl
-corinto,ni
-sao filipe,cv
-padang,id
-thompson,ca
-bratsk,ru
-alofi,nu
-issoudun,fr
-avarua,ck
-nikolskoye,ru
-georgetown,gy
-itarema,br
-hasaki,jp
-warwick,au
-hilo,us
-gorontalo,id
-sorland,no
-sungai udang,my
-alice springs,au
-ruatoria,nz
-souillac,mu
-saldanha,za
-san martin,ar
-sukhoy log,ru
-wahiawa,us
-grand gaube,mu
-qidong,cn
-dangriga,bz
-husavik,is
-gondanglegi,id
-wulanhaote,cn
-calama,cl
-pacific grove,us
-lamu,ke
-damaturu,ng
-jinxiang,cn
-balykshi,kz
-horta,pt
-port macquarie,au
-saint-philippe,re
-airai,pw
-nortelandia,br
-vaitupu,wf
-aswan,eg
-pascagoula,us
-mogzon,ru
-anloga,gh
-adrar,dz
-urdzhar,kz
-bandarban,bd
-puerto ayora,ec
-churapcha,ru
-eureka,us
-lavrentiya,ru
-marquette,us
-murray,us
-hualmay,pe
-vestmanna,fo
-kloulklubed,pw
-qaanaaq,gl
-gimli,ca
-banyo,cm
-east london,za
-sola,vu
-yar-sale,ru
-rawson,ar
-orotukan,ru
-mitha tiwana,pk
-neiafu,to
-sveti nikole,mk
-carnarvon,au
-udachnyy,ru
-grand river south east,mu
-taolanaro,mg
-nicoya,cr
-oksfjord,no
-ucluelet,ca
-bonfim,br
-saint-augustin,ca
-kodiak,us
-tiznit,ma
-arraial do cabo,br
-adre,td
-deep river,ca
-tessalit,ml
-jabiru,au
-naruja,ge
-verkhnyaya inta,ru
-hobyo,so
-port hardy,ca
-awbari,ly
-mossendjo,cg
-egvekinot,ru
-henties bay,na
-teya,ru
-alotau,pg
-high rock,bs
-meadow lake,ca
-palmer,us
-taburao,ki
-esmeralda,cu
-cervo,es
-ixtapa,mx
-vestmannaeyjar,is
-smithers,ca
-kieta,pg
-abu samrah,qa
-kralendijk,an
-bengkulu,id
-labuhan,id
-haines junction,ca
-tautira,pf
-pisco,pe
-sao joao da barra,br
-lima,pe
-bumba,cd
-pelym,ru
-amderma,ru
-parana,br
-kamenka,ru
-hami,cn
-elk grove village,us
-caucaia,br
-khonuu,ru
-jiexiu,cn
-sinnamary,gf
-bria,cf
+baraut,in
+druzhba,uz
+sept-iles,ca
+ojitlan,mx
+kokstad,za
 pangnirtung,ca
-burnie,au
-mazatlan,mx
-aitape,pg
-port lincoln,au
-palabuhanratu,id
-san quintin,mx
-norman wells,ca
-leningradskiy,ru
-saint-francois,gp
-maniitsoq,gl
-ponta do sol,pt
-bereda,so
-cheney,us
-vichuga,ru
-kirakira,sb
-dhola,in
-choix,mx
-xiangfan,cn
-scarborough,gb
-laguna,br
-kapaa,us
-nizhneyansk,ru
-ponta do sol,cv
-sorong,id
-colonial heights,us
-zelenoborskiy,ru
-fujin,cn
-kortkeros,ru
-punta arenas,cl
-neuquen,ar
-oxford,nz
-cayenne,gf
-los llanos de aridane,es
-khor,qa
-barentsburg,sj
-albany,au
-florianopolis,br
-nur,ir
-berga,es
-bull savanna,jm
-puerto quijarro,bo
-tangping,cn
-fortuna,us
-vaini,to
-deputatskiy,ru
-yellowknife,ca
-taoudenni,ml
-aksu,cn
-buraydah,sa
-pokaran,in
-beloha,mg
-kilindoni,tz
-necochea,ar
-asayita,et
+bara,sd
+tolaga bay,nz
+korla,cn
+sao miguel do tapuio,br
+bambous virieux,mu
+catalina,ca
+inuvik,ca
+martapura,id
+shache,cn
+hofn,is
+lethem,gy
+bedele,et
+hilo,us
+vieira de leiria,pt
+camocim,br
+russell,nz
+yurimaguas,pe
+dingle,ie
+kloulklubed,pw
+xuanzhou,cn
+bilma,ne
+alice springs,au
+isangel,vu
+san rafael,ar
 tual,id
-kangaba,ml
-jalu,ly
-caravelas,br
-vanavara,ru
-pringsewu,id
-dunedin,nz
-udalguri,in
-ostrovnoy,ru
-marcona,pe
-geraldton,au
-linqiong,cn
-burgeo,ca
-caticlan,ph
-tsihombe,mg
-biltine,td
-matara,lk
-port hedland,au
-exeter,us
-phalaborwa,za
-araguaina,br
-lolua,tv
-vostok,ru
-gazojak,tm
-lazaro cardenas,mx
+kuching,my
+talnakh,ru
+cockburn town,tc
+sisimiut,gl
 camacha,pt
-batemans bay,au
-aztec,us
-vila velha,br
-gravdal,no
-meridian,us
-samana,do
-bakchar,ru
-zhigansk,ru
-coihaique,cl
-meulaboh,id
-kulhudhuffushi,mv
-rosarito,mx
-xining,cn
-grimshaw,ca
-shahreza,ir
-kaitangata,nz
-paragominas,br
-beringovskiy,ru
+korablino,ru
+bowen,au
+kapuskasing,ca
+gezing,in
+amga,ru
+fukue,jp
+mareeba,au
+wattegama,lk
+miramar,mx
+busselton,au
+palauig,ph
+kieta,pg
+hobart,au
+tasiilaq,gl
+amberley,nz
+aranda de duero,es
+hauknes,no
+vokhma,ru
+sinnamary,gf
+zhangzhou,cn
+avarua,ck
+aksarka,ru
+berlevag,no
+aksu,cn
+havoysund,no
+malatya,tr
+arraial do cabo,br
+zhangye,cn
+la baule-escoublac,fr
+ust-kuyga,ru
+dikson,ru
+sarkand,kz
+senanga,zm
+sai buri,th
+spring hill,us
+broken hill,au
+yengema,sl
+ribeira grande,pt
 paamiut,gl
-atuona,pf
-noumea,nc
-enid,us
-lorengau,pg
-genhe,cn
-upington,za
-evensk,ru
-faro,pt
-morehead,pg
-kuche,cn
-floro,no
-lagoa,pt
-lucapa,ao
-mazara del vallo,it
-seydisehir,tr
-constitucion,mx
-sur,om
-tiarei,pf
-ust-kamchatsk,ru
-cheuskiny,ru
-faya,td
-asau,tv
-chicama,pe
-portland,au
-bilaspur,in
-utiroa,ki
-verkhoyansk,ru
-la rioja,ar
-auki,sb
-sambava,mg
-ushuaia,ar
-vanimo,pg
-murgab,tm
-aflu,dz
-portree,gb
+quang ngai,vn
+mahibadhoo,mv
+zavetnoye,ru
+camana,pe
+cayenne,gf
+manokwari,id
+geraldton,au
+cuorgne,it
+roberval,ca
+bogen,de
+waingapu,id
+pangkalanbuun,id
+luderitz,na
+dzaoudzi,yt
+jambi,id
+honiara,sb
 meyungs,pw
-belmonte,br
-kuryk,kz
-valley city,us
+sunrise manor,us
+gornoye loo,ru
+saint george,bm
+isabela,us
+vestmannaeyjar,is
+la palma,pa
+asfi,ma
+atbasar,kz
+baykit,ru
+morehead,pg
+port hedland,au
+turbat,pk
+urucara,br
+tonantins,br
+comodoro rivadavia,ar
+kushima,jp
+tigil,ru
+aflu,dz
+moose factory,ca
+illoqqortoormiut,gl
+agogo,gh
+creel,mx
+tazovskiy,ru
+meulaboh,id
+bolu,tr
+sola,vu
+tomohon,id
+kitimat,ca
+opuwo,na
+constantine,dz
+guerrero negro,mx
+soe,id
+saqqez,ir
+canmore,ca
+klaksvik,fo
+khatanga,ru
+lubango,ao
+san patricio,mx
+preobrazheniye,ru
+upernavik,gl
+san quintin,mx
+vyartsilya,ru
+flinders,au
+auki,sb
+ust-uda,ru
+melaka,my
+coahuayana,mx
+jishou,cn
+halalo,wf
+umzimvubu,za
+tautira,pf
+alofi,nu
+hami,cn
+pevek,ru
+nakhon thai,th
+ust-kulom,ru
+morris,us
+okhotsk,ru
+toowoomba,au
+bulgan,mn
+maniitsoq,gl
+port macquarie,au
+sabha,ly
+saint-philippe,re
+saldanha,za
+nishihara,jp
+kingston,us
+lavrentiya,ru
+vao,nc
+hualmay,pe
+doha,kw
+mar del plata,ar
+tanout,ne
+tyrma,ru
+maragogi,br
+soyo,ao
+saint-leu,re
+fort wellington,gy
+pacasmayo,pe
+marcona,pe
+portland,au
+san matias,bo
+puerto ayacucho,ve
+wangou,cn
+chumikan,ru
+alindao,cf
+simiti,co
+khilok,ru
+akyab,mm
+calabozo,ve
+stornoway,gb
+abu jubayhah,sd
+nemuro,jp
+chingirlau,kz
+sangar,ru
+ankpa,ng
+puerto ayora,ec
+puerto escondido,mx
+werota,et
+burnie,au
+tacoronte,es
+de-kastri,ru
+buala,sb
+mettur,in
+port lincoln,au
+monterey,us
+kresna,bg
+lapua,fi
+benguela,ao
+ankazoabo,mg
+saskylakh,ru
+rajanpur,pk
+weligama,lk
+bengkulu,id
+zadar,hr
+palabuhanratu,id
+kaputa,zm
+mogadishu,so
+warqla,dz
+boende,cd
+pacifica,us
+cagayan de tawi-tawi,ph
+aleksandrovskoye,ru
+potgietersrus,za
+bilibino,ru
+jamestown,sh
+namibe,ao
+mudgee,au
+katsuura,jp
+merauke,id
+lucapa,ao
+batticaloa,lk
+yanam,in
+karratha,au
+zhanatas,kz
+bonavista,ca
+lardos,gr
+rocha,uy
+mataura,pf
+caborca,mx
+nelson bay,au
+saverne,fr
+epitalion,gr
+deputatskiy,ru
+andenes,no
+waipawa,nz
+sur,om
+fort nelson,ca
+kavaratti,in
+airai,pw
+thompson,ca
+skibbereen,ie
+watsa,cd
+ust-nera,ru
+hasaki,jp
+north bend,us
+tiznit,ma
+sioux lookout,ca
+coquimbo,cl
+gimli,ca
+severobaykalsk,ru
+henties bay,na
+shiyan,cn
+lebu,cl
+kenai,us
+clyde river,ca
+bonthe,sl
+fortuna,us
+san policarpo,ph
+amderma,ru
+belyy yar,ru
+longyearbyen,sj
+bredasdorp,za
+tagusao,ph
+quzhou,cn
+kropotkin,ru
+mpika,zm
+hof,no
+gaya,ne
+limbuhan,ph
+port moresby,pg
+basco,ph
+de aar,za
+conde,br
+leningradskiy,ru
+quesnel,ca
+olafsvik,is
+emmett,us
+zhezkazgan,kz
+toliary,mg
+sao joao da barra,br
+palu,id
+butaritari,ki
+coihaique,cl
+whitehorse,ca
+kalmunai,lk
+bazarnyy syzgan,ru
+mirabad,af
+pacific grove,us
+udachnyy,ru
+nyurba,ru
+mys shmidta,ru
+kuche,cn
+svetlyy,ru
+suamico,us
+topeka,us
+viedma,ar
+ghanzi,bw
+bargal,so
+vanimo,pg
+shelburne,ca
+barrow,us
+capinzal,br
+saint-pierre,re
+attawapiskat,ca
+polson,us
+rusape,zw
+laguna,br
+east london,za
+codrington,ag
+yumen,cn
+sorong,id
+adrar,dz
+alugan,ph
+nyimba,zm
+kralendijk,an
+shimoda,jp
+esperance,au
+kavieng,pg
+kyenjojo,ug
+gaozhou,cn
+charters towers,au
+hellvik,no
+nakamura,jp
+husavik,is
+nioro,ml
+lianzhou,cn
+lolua,tv
+pleasanton,us
+irupi,br
+kizukuri,jp
+novosokolniki,ru
+puerto rico,co
+storforshei,no
 faanui,pf
-norfolk,us
-katherine,au
-nha trang,vn
+port-gentil,ga
+vostok,ru
+prince george,ca
+safakulevo,ru
+serov,ru
+mehamn,no
+buchanan,lr
+dakar,sn
+lufilufi,ws
+deer lake,ca
+yaan,cn
+gizo,sb
+san borja,bo
+chanderi,in
+lakes entrance,au
+betare oya,cm
+ozernovskiy,ru
+ilhabela,br
+victoria,sc
+bolungarvik,is
+gao,ml
+pauini,br
+mizdah,ly
+souillac,mu
+harper,lr
+golden,us
+ulladulla,au
+iskateley,ru
+kandrian,pg
+firminopolis,br
+college,us
+jumla,np
+zaysan,kz
+lodwar,ke
+durban,za
+mahadday weyne,so
+mao,td
+duliby,ua
+constitucion,mx
+finschhafen,pg
+maku,ir
+mahajanga,mg
+barmer,in
+orlik,ru
+aberdeen,us
+miguel pereira,br
+lagoa,pt
+lima,pe
+havre-saint-pierre,ca
+vad,ru
+praxedis guerrero,mx
+plettenberg bay,za
+rungata,ki
+sentyabrskiy,ru
+saint-francois,gp
+pokhara,np
+slave lake,ca
+salalah,om
+luanda,ao
+moanda,ga
+nabire,id
+sitka,us
+campos sales,br
+grindavik,is
+takoradi,gh
+natal,br
+paramirim,br
+gunjur,gm
+dawlatabad,af
+punta arenas,cl
+bay city,us
+cherepovets,ru
+ahmadpur sial,pk
+kinkala,cg
+oistins,bb
+cairns,au
+sibu,my
+great bend,us
+provideniya,ru
+manihari,in
+houlton,us
+wewak,pg
+agirish,ru
+matay,eg
+chapais,ca
+westport,ie
+jabiru,au
+mutsamudu,km
+roseburg,us
+zhigansk,ru
+cap malheureux,mu
+port blair,in
+kutum,sd
+bluff,nz
+utamysh,ru
+bairiki,ki
+severo-kurilsk,ru
+broome,au
+bergen,de
+blyth,gb
+tuggurt,dz
+castro,cl
+nampula,mz
+mangai,cd
+tura,ru
+cooma,au
+anadyr,ru
+bokspits,bw
+tuatapere,nz
+stawell,au
+marathon,us
+asau,tv
+amapa,br
+weatherford,us
+conceicao das alagoas,br
+komsomolskiy,ru
+ishigaki,jp
+naze,jp
+santo tomas,pe
+nouadhibou,mr
+raton,us
+vestmanna,fo
+vila velha,br
+maceio,br
+hovd,mn
+okha,ru
+la palma,mx
+yirol,sd
+dudinka,ru
+shchelyayur,ru
+yar-sale,ru
+khandyga,ru
+ostrovnoy,ru
+carnarvon,au
+dunedin,nz
+barra patuca,hn
+belushya guba,ru
+kidderminster,gb
+rio gallegos,ar
+douglas,us
+mayo,ca
+hervey bay,au
+kaluga,ru
+cherskiy,ru
+kovdor,ru
+jacareacanga,br
+ningyang,cn
+norman wells,ca
+nauta,pe
+dolinsk,ru
+ngukurr,au
+krasnoselkup,ru
+tiksi,ru
+zhanaozen,kz
+jamestown,us
+poum,nc
+simao,cn
+najran,sa
+susanville,us
+nanortalik,gl
+acajutla,sv
+nantucket,us
+port hardy,ca
+chernyshevskiy,ru
+colquechaca,bo
+lompoc,us
+laurens,us
+jardim,br
+greenville,us
+ahipara,nz
+gazli,uz
+oktyabrskoye,ru
+sambava,mg
+linxia,cn
+luganville,vu
+antalaha,mg
+susangerd,ir
+havelock,us
+wangkui,cn
+bukachacha,ru
+balezino,ru
+chara,ru
+ola,ru
+phan rang,vn
+heihe,cn
+wysokie mazowieckie,pl
+katyuzhanka,ua
+tommot,ru
+ponta do sol,pt
+zonguldak,tr
+petropavlovskoye,ru
+rwamagana,rw
+mocuba,mz
+huarmey,pe
+barentsburg,sj
+porto novo,cv
+northam,au
+ilulissat,gl
+padang,id
+malindi,ke
+roebourne,au
+jiwani,pk
+sabang,id
+sawakin,sd
+marawi,sd
+katha,mm
+beringovskiy,ru
+tsabong,bw
+louisbourg,ca
+tuktoyaktuk,ca
+pitimbu,br
+ugoofaaru,mv
+los llanos de aridane,es
+tiruchchendur,in
+roma,au
+pahrump,us
+kismayo,so
+kampot,kh
+portel,br
+xinzhi,cn
+chiungutwa,tz
+thinadhoo,mv
+grand gaube,mu
+savelugu,gh
+ahuimanu,us
+biscarrosse,fr
+port alfred,za
+narsaq,gl
+yulara,au
+brae,gb
+rikitea,pf
+languyan,ph
+martin,us
+abonnema,ng
+te anau,nz
+yellowknife,ca
+thunder bay,ca
+ilyich,kz
+seymchan,ru
+kedrovyy,ru
+samusu,ws
+araouane,ml
+banda aceh,id
+dzilam gonzalez,mx
+morro bay,us
+chuka,ke
+tabuk,sa
+aswan,eg
+kruisfontein,za
+cockburn town,bs
+weyburn,ca
+georgetown,sh
+el alto,pe
+catarman,ph
+tubruq,ly
+chuy,uy
+muros,es
+gorgan,ir
+egvekinot,ru
+tateyama,jp
+diego de almagro,cl
+omsukchan,ru
+karaton,kz
+tutoia,br
+yerbogachen,ru
+iquitos,pe
+taoudenni,ml
+iqaluit,ca
+constitucion,cl
+waitati,nz
+nome,us
+loiza,us
+hambantota,lk
+darhan,mn
+bethel,us
+juneau,us
+ushuaia,ar
+turukhansk,ru
+severo-yeniseyskiy,ru
+roald,no
+hermanus,za
+umm lajj,sa
+adre,td
+chokurdakh,ru
+ferndale,us
+boyolangu,id
+maykain,kz
+axim,gh
+riyadh,sa
+lorengau,pg
+banki,in
+kahului,us
+imbituba,br
+malwan,in
+sao gabriel da cachoeira,br
+kyshtovka,ru
+albany,au
+san rafael,cr
+qaanaaq,gl
+hithadhoo,mv
+vieques,us
+duma,sy
+phonhong,la
+xichang,cn
+gazanjyk,tm
+cazaje,ao
+port-de-paix,ht
+hamilton,bm
+sistranda,no
+kapaa,us
+villa guerrero,mx
+jalu,ly
+lasa,cn
+hobyo,so
+ruteng,id
+kodiak,us
+avera,pf
+noumea,nc
+lata,sb
+kautokeino,no
+diamantino,br
+palmer,us
+chisinau,md
+biggar,ca
+maiduguri,ng
+lahij,ye
+pathein,mm
+tremedal,br
+cordoba,ar
+gat,ly
+mujiayingzi,cn
+castro,br
+kolokani,ml
+shaartuz,tj
+la ronge,ca
+grand river south east,mu
+petropavlovsk-kamchatskiy,ru
+carutapera,br
+cape town,za
+koumac,nc
+khonuu,ru
+challakere,in
+seoul,kr
+nikolskoye,ru
+cabedelo,br
+san cristobal,ec
+obama,jp
+konevo,ru
+ponta do sol,cv
+ambilobe,mg
+ruatoria,nz
+vaitupu,wf
+agadir,ma
+vila franca do campo,pt
+erzin,ru
+den helder,nl
+oranjemund,na
+mount isa,au
+virginia beach,us
+wolsztyn,pl
+narkanda,in
+caravelas,br
+kamenka,ru
+san andres,co
+beloha,mg
+saint-joseph,re
+goderich,sl
+new norfolk,au
+shkotovo-22,ru
+dotnuva,lt
+rosetta,eg
+chupaca,pe
+goya,ar
+sirjan,ir
+bathsheba,bb
+haines junction,ca
+cabo san lucas,mx
+ardakan,ir
+faya,td
+samokov,bg
+nizhneyansk,ru
+pedernales,ec
+sarangani,ph
+eureka,us
+kostomuksha,ru
+ndele,cf
+zyryanka,ru
+ancud,cl
+vaini,to
+sao filipe,cv
+gamba,tz
+touros,br
+langfang,cn
+puerto barrios,gt
+houma,us
+pochutla,mx
+gillette,us
+devyatka,ru
+kemin,kg
+east haven,us
+vardo,no
+nouakchott,mr
+shevchenkove,ua
+xambioa,br
+eyl,so
+ust-ishim,ru
+tawang,in
+ladario,br
+aras,no
+palana,ru
+tsihombe,mg
+gurupi,br
+marzuq,ly
+waverley,nz
+torbay,ca
+biloela,au
+catamarca,ar
+urbana,us
+ketchikan,us
+antofagasta,cl
+puro,ph
+kefamenanu,id
+formosa,ar
+taolanaro,mg
+reyes,bo
+rawson,ar
+cidreira,br
+mahebourg,mu
+richards bay,za
+santa fe,cu
+saleaula,ws
+atuona,pf
+atar,mr
+jasdan,in
+bredy,ru
+fairbanks,us
+tumannyy,ru
+namatanai,pg
+novoagansk,ru
+aklavik,ca
+novikovo,ru
+svetlogorsk,ru
+pisco,pe
+sidi ali,dz
+abu dhabi,ae
+karpogory,ru
+ixtapa,mx
+karla,ee
+tynda,ru
+tignere,cm
+san diego,co
+reforma,mx
+praia da vitoria,pt
+kamenskoye,ru
+terracina,it
+kaitangata,nz
+makakilo city,us
+qasigiannguit,gl
+margate,za
+marsh harbour,bs
+terra santa,br
+dingli,mt
+dongsheng,cn
+ishinomaki,jp
+olinda,br
+arlit,ne
+ngunguru,nz
+addi ugri,er
+ambositra,mg
+salamiyah,sy
+doha,qa
+koratla,in
+saint-augustin,ca
+bud,no
+ballina,au
+zabaykalsk,ru
+necochea,ar
+fare,pf
+vanavara,ru
+santa isabel,mx
+saryg-sep,ru
+smidovich,ru
+santa marta,co
+paysandu,uy
+sungaipenuh,id
+cam ranh,vn
+ambon,id
+corinto,ni
