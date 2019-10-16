@@ -8,5 +8,5 @@ Humidity (%) vs. Latitude<br>
 Cloudiness (%) vs. Latitude<br>
 And Wind Speed (mph) vs. Latitude
 <br><br>
-The Jupyter Notebook built to accomplish this analysis can be visualized <a href="weather-python-analysis.pdf" target="_blank">here</a>.
+The Jupyter Notebook built to accomplish this analysis can be visualized <a href="https://pamcuellas.github.io/assets/images/weather-python-analysis.pdf" target="_blank">here</a>.
 
